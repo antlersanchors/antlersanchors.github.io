@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/Mollis-offendit-in-mea/</loc>
+    <loc>http://antlersandanchors.ca/Mollis-offendit-in-mea/</loc>
     <lastmod>2014-03-01T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/Lorem-Ipsum-Dolor/</loc>
+    <loc>http://antlersandanchors.ca/Lorem-Ipsum-Dolor/</loc>
     <lastmod>2014-03-01T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/Another-Project-Title/</loc>
+    <loc>http://antlersandanchors.ca/Another-Project-Title/</loc>
     <lastmod>2014-02-01T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/Hello-World/</loc>
+    <loc>http://antlersandanchors.ca/Hello-World/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/404.html</loc>
+    <loc>http://antlersandanchors.ca/404.html</loc>
   </url>
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/about/</loc>
+    <loc>http://antlersandanchors.ca/about/</loc>
   </url>
   <url>
-    <loc>http://femmebot.github.io/jekyll-grid/</loc>
+    <loc>http://antlersandanchors.ca/</loc>
+  </url>
+  <url>
+    <loc>http://antlersandanchors.ca/about/</loc>
   </url>
 </urlset>

@@ -3,8 +3,8 @@
   <channel>
     <title>Antlers and Anchors</title>
     <description>Michael-Owen Liston is a designer</description>
-    <link>http://femmebot.github.io</link>
-    <atom:link href="http://femmebot.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://antlersandanchors.ca</link>
+    <atom:link href="http://antlersandanchors.ca/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Mollis Offendit In Mea</title>
@@ -33,8 +33,8 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
-        <link>http://femmebot.github.io/Mollis-offendit-in-mea/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Mollis-offendit-in-mea/</guid>
+        <link>http://antlersandanchors.ca/Mollis-offendit-in-mea/</link>
+        <guid isPermaLink="true">http://antlersandanchors.ca/Mollis-offendit-in-mea/</guid>
       </item>
     
       <item>
@@ -64,8 +64,8 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
-        <link>http://femmebot.github.io/Lorem-Ipsum-Dolor/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Lorem-Ipsum-Dolor/</guid>
+        <link>http://antlersandanchors.ca/Lorem-Ipsum-Dolor/</link>
+        <guid isPermaLink="true">http://antlersandanchors.ca/Lorem-Ipsum-Dolor/</guid>
       </item>
     
       <item>
@@ -95,8 +95,8 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
-        <link>http://femmebot.github.io/Another-Project-Title/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Another-Project-Title/</guid>
+        <link>http://antlersandanchors.ca/Another-Project-Title/</link>
+        <guid isPermaLink="true">http://antlersandanchors.ca/Another-Project-Title/</guid>
       </item>
     
       <item>
@@ -126,8 +126,8 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-        <link>http://femmebot.github.io/Hello-World/</link>
-        <guid isPermaLink="true">http://femmebot.github.io/Hello-World/</guid>
+        <link>http://antlersandanchors.ca/Hello-World/</link>
+        <guid isPermaLink="true">http://antlersandanchors.ca/Hello-World/</guid>
       </item>
     
   </channel>
