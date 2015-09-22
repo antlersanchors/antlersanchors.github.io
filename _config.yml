@@ -9,7 +9,7 @@ name: Antlers and Anchors
 description: Michael-Owen Liston is a designer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/little_headshot_50x50.jpeg
+avatar: ../images/little_headshot_50x50.jpeg
 
 #
 # Flags below are optional

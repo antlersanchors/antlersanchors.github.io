@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem Ipsum Quid Nostrud
+title: Knock Clock
 desc: Te nec mundi mandamus voluptatum. Adhuc nostro id sit, at erat liberavisse eum
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 03

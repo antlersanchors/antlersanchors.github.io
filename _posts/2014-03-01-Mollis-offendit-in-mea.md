@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mollis Offendit In Mea
+title: Soft Civil Disobedience Suit 
 desc: Ex bonorum propriae ius, has id case habeo legimus, decore honestatis est ut.
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 04

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Project Title
+title: The Aspirational Lamp
 desc: Another excerpt or project description goes here
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 02

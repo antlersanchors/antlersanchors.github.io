@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: City Windows
 desc: Brief excerpt or project description goes here and looks like this
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
