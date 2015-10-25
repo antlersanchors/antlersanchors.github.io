@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://antlersandanchors.ca/blog/</loc>
+    <lastmod>2015-10-25T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://antlersandanchors.ca/Mollis-offendit-in-mea%20copy/</loc>
+    <lastmod>2014-03-01T00:00:00+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://antlersandanchors.ca/Mollis-offendit-in-mea/</loc>
+    <lastmod>2014-03-01T00:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://antlersandanchors.ca/Lorem-Ipsum-Dolor%20copy/</loc>
     <lastmod>2014-03-01T00:00:00+01:00</lastmod>
   </url>
   <url>
@@ -9,8 +21,16 @@
     <lastmod>2014-03-01T00:00:00+01:00</lastmod>
   </url>
   <url>
+    <loc>http://antlersandanchors.ca/Another-Project-Title%20copy/</loc>
+    <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://antlersandanchors.ca/Another-Project-Title/</loc>
     <lastmod>2014-02-01T00:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://antlersandanchors.ca/Hello-World%20copy/</loc>
+    <lastmod>2014-01-01T00:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://antlersandanchors.ca/Hello-World/</loc>
