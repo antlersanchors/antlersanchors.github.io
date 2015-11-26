@@ -2,6 +2,8 @@
 layout: home
 ---
 
+## SMS-erneq “Aluu”: +45 6099 4624 4036
+
 
 
 <!-- <div class="posts clearfix">
@@ -19,4 +21,4 @@ layout: home
       <a href="{{ site.baseurl }}{{ post.url }}" class="small-link">Read details</a>
     </article>
   {% endfor %} -->
-</div>
+<!-- </div> -->
