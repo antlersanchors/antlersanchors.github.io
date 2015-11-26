@@ -6,15 +6,13 @@ permalink: /about/
 
 
 
-## Set up instructions
+## Connecting Greenlanders in Denmark
 
-Fork this Jekyll-Grid on Github: [https://github.com/femmebot/jekyll-grid](https://github.com/femmebot/jekyll-grid)
+TikilluaritSMS is a project to support Greenlanders who have recently arrived in Denmark. It aims to help them connect with resources — both governmental, and knowledge and experience within the community.
 
-Part of the [25x52](http://25x52.com) initiative, this theme is based on [Jekyll Now](https://github.com/barryclark/jekyll-now). Refer to the following original instructions for help with the setup:
+TikilluaritSMS uses a conversational SMS “chatbot” to engage with people who use the service. The chatbot can respond to a person’s natural language in a way that government websites and forms cannot. We want people to be able to describe their needs in a way that make sense to them, so that they can get the services that they need.
 
-> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+> TikilluaritSMS is the final project of Michael-Owen Liston, a Canadian designer and graduate student at the Copenhagen Institute of Interaction Design, [CIID](http://ciid.dk). The first prototype has been developed in collaboration with the Greenlandic community in Copenhagen.
 
-> ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-> The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
+For more information, please contact Michael:
+michaelowen.liston@gmail.com
