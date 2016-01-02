@@ -8,13 +8,15 @@ permalink: /michael/
 
 ## Hello, I’m Michael
 
-I currently live in Toronto. I do design stuff for a living. For fun I do other stuff. I care about these things. I would like to be a good ancestor.
+#### Design, Collaborate, and Listen
+I currently live in Toronto, but I’m available to relocate anywhere in the world. I do design stuff for a living. 
 
-About me, blah blah blah. Story telling.
+#### Music
+Like making music.
 
-Sweet picture.
+#### Designing Critically, Thinking Critically
+Try to be a good ancestor. This site is simple because carbon.
 
->Here, have a CV
+>You can email me at michaelowen.liston@gmail.com, or call/text me at +1-647-574-3325. 
 
->Contact info here!
-
+>If you’d like to look at my CV, you can download one here, or see my LinkedIn profile here.

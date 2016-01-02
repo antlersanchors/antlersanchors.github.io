@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Aspirational Lamp
-desc: Brief excerpt or project description goes here and looks like this
-proj-url: https://github.com/femmebot/jekyll-grid
+desc: Smart objects in a time of planned obsolescence
+proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 01
 ---
 
