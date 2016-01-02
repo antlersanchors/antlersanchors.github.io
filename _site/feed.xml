@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antlers and Anchors</title>
-    <description>Michael-Owen Liston is a designer</description>
+    <description>Hi, my name is Michael. I work as a designer, communicator, and storyteller. Let’s talk!</description>
     <link>http://antlersandanchors.ca</link>
     <atom:link href="http://antlersandanchors.ca/feed.xml" rel="self" type="application/rss+xml" />
     
@@ -32,7 +32,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sun, 25 Oct 2015 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 -0400</pubDate>
         <link>http://antlersandanchors.ca/blog/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/blog/</guid>
       </item>
@@ -63,7 +63,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Mollis-offendit-in-mea%20copy/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Mollis-offendit-in-mea%20copy/</guid>
       </item>
@@ -94,7 +94,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Mollis-offendit-in-mea/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Mollis-offendit-in-mea/</guid>
       </item>
@@ -125,7 +125,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Lorem-Ipsum-Dolor%20copy/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Lorem-Ipsum-Dolor%20copy/</guid>
       </item>
@@ -156,7 +156,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Lorem-Ipsum-Dolor/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Lorem-Ipsum-Dolor/</guid>
       </item>
@@ -187,7 +187,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Another-Project-Title%20copy/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Another-Project-Title%20copy/</guid>
       </item>
@@ -218,7 +218,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Another-Project-Title/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Another-Project-Title/</guid>
       </item>
@@ -249,7 +249,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Hello-World%20copy/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Hello-World%20copy/</guid>
       </item>
@@ -280,7 +280,7 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
         <link>http://antlersandanchors.ca/Hello-World/</link>
         <guid isPermaLink="true">http://antlersandanchors.ca/Hello-World/</guid>
       </item>
