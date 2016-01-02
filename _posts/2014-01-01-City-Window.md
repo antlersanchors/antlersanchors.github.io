@@ -2,7 +2,7 @@
 layout: post
 title: City Window
 desc: Brief excerpt or project description goes here and looks like this
-proj-url: https://github.com/femmebot/jekyll-grid
+proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/
 proj-num: 01
 ---
 

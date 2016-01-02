@@ -2,7 +2,7 @@
 layout: post
 title: Copenhagen Connect
 desc: Brief excerpt or project description goes here and looks like this
-proj-url: https://github.com/femmebot/jekyll-grid
+proj-url: http://ciid.dk/education/portfolio/idp15/courses/service-design/projects/culture-connect-copenhagen/
 proj-num: 01
 ---
 
