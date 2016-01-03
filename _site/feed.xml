@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antlers and Anchors</title>
-    <description>Hi, my name is Michael. I design services and products, make music, and like to tell stories. Let’s talk!</description>
+    <title>Hi, I’m Michael</title>
+    <description>I design services and products, make music, and like to tell stories. Let’s talk!</description>
     <link>http://antlersandanchors.ca</link>
     <atom:link href="http://antlersandanchors.ca/feed.xml" rel="self" type="application/rss+xml" />
     

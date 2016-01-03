@@ -8,5 +8,5 @@ permalink: /words/
 
 ## Things I’ve written
 
-Blog posts be here
+> Blog posts be here
 

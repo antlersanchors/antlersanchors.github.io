@@ -9,7 +9,11 @@ permalink: /michael/
 ## Hello, I’m Michael
 
 #### Design, Collaborate, and Listen
-I currently live in Toronto, but I’m available to relocate anywhere in the world. I do design stuff for a living. 
+I currently live in Toronto, but I’m available to relocate anywhere in the world. I do design stuff for a living.
+
+I’ve got a bunch of experience as a designer. Leading projects, too. I graduated from the CIID IDP 2015.
+
+Before working as a designer I did a bunch of stuff. Life experience.
 
 #### Music
 Like making music.
