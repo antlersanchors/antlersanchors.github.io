@@ -7,23 +7,22 @@ proj-num: 01
 ---
 
 
+> As featured in these influential publications!
+>
+> * Wired
+> * Not Wired
+> * Also not Wired
 
-## H2 Heading Looks Like This
+### Smart machines in a time of planned obsolescence
 
-Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. 
+What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them. 
 
-### H3 Heading Looks Like This
+### Secret Life of Objects
 
-Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.
+Our brief was to investigate the behaviours and interactions of the “object oriented home” of the very near future, in which household objects will be increasingly expected to learn, adapt, and evolve in response to the behaviours of their owners. How much intelligence will our “smart” objects have, and how much autonomy? Might dedicated appliances give ground to more multipurpose sensors and actuators, that can be controlled by a centralized system? What would an emergent economy of such networked machines look like, and what would be a “smart” object’s response to the very human business model of planned obsolescence?
 
-1. Sample ordered list
-2. List item 
-3. Another list item
+### Building It
 
-#### H4 Heading Looks Like This
+We initially framed the project around an exploration of objects that could go beyond being highly efficient to creating a net gain of energy through adaptive behaviours. This led us to wonder about how a peer-to-peer economy of machines would function, and what they could trade—capital, new firmware or algorithms, carbon credits—and how these competing priorities would manifest themselves in the products’ behaviour.
 
-Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.
-
-> This is a sample blockquote. Landjaeger shoulder ham capicola. 
-> Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.
-
+We constructed the lamp prototypes from a mixture of salvaged or recycled parts, laser cut components, and off the shelf materials. An Arduino Uno controls two servo motors, and the lamp’s has some simple behaviours that are triggered by the presence or absence of a person next to it. We also prototyped a dashboard interface that provided visual feedback on the lamp’s activities and behaviours over time.

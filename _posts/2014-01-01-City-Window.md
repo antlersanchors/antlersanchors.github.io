@@ -1,29 +1,22 @@
 ---
 layout: post
 title: City Window
-desc: Brief excerpt or project description goes here and looks like this
+desc: Connecting visitors and locals through remote, guided micro-tours 
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/
 proj-num: 01
 ---
 
+> ZOMG it got shortlisted for the IxDA Awards!
 
+### City Window
 
-## H2 Heading Looks Like This
+City Window is a live-streaming service that allows tourists to experience a short “micro tour”, guided remotely by a local from the place they are visiting. Conceived as a free service, with a “karma economy” model similar to Couchsurfing, City Window offers both tourists and guides an experience of meeting new people from other countries. Guides are able to personally share something they love about their city, and tourists are able to get off the well-trodden path of mass-market group tours.
 
-Sample paragraph goes here and looks like this. Bacon ipsum dolor sit amet turducken meatloaf boudin pork loin meatball biltong, fatback capicola turkey pork chop. Short ribs boudin landjaeger kevin brisket ground round. 
+Tourists can browse available guides by location of tour and particular topics of interest, such as culture, food and drink, or history. The selected guide is notified of an incoming request and given the opportunity to accept or decline. City Window tours are topical but informal, and are time limited, which helps to create a comfortable, casual mood for the participants by keeping the commitment and expectations reasonable.
 
-### H3 Heading Looks Like This
+Visitors share their exact locations on a shared map and, through the camera of their phones, live video of exactly what they are seeing in front of them. Both parties can interact with the map and camera feed — to provide directions on the map, or to call attention to something visible in the live view, for example. Visual feedback is overlaid on both screens.
 
-Spare ribs strip steak pastrami corned beef bresaola porchetta. Cow fatback tongue prosciutto, short ribs hamburger drumstick beef ribs swine t-bone pancetta meatball strip steak ground round tenderloin.
+At the end of the tour, a tourist can thank a guide for the service provided with a voucher for drinks or food through local business partners. City Window could retain a small percentage of such transactions to sustain its operational costs.
 
-1. Sample ordered list
-2. List item 
-3. Another list item
-
-#### H4 Heading Looks Like This
-
-Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.
-
-> This is a sample blockquote. Landjaeger shoulder ham capicola. 
-> Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.
+City Window was created as part of the Emotive Digital Service course. Our brief was to create a service for live events. We initially explored concepts in the healthcare space – to reduce isolation caused by hospitalization, illness, etc. Our early ideation on concepts of telepresence led us to think about other novel contexts for creating impromptu connections, and we decided to focus on the serendipitous intersection of people, places, and interests. We conducted a series of live prototypes of the City Window concept with tourists in the streets of Copenhagen – using Google Hangouts to simulate the core experience of lending your eyes to a remote guide, and we received very encouraging early feedback. As a team we greatly enjoyed the opportunity to experiment and evolve new ways of both prototyping and communicating our concepts as part of this project.
 
