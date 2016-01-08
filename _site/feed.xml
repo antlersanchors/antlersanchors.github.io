@@ -80,7 +80,15 @@
     
       <item>
         <title>Spot On</title>
-        <description>&lt;h2 id=&quot;this-one-should-feel-more-like-product-design&quot;&gt;This one should feel more like product design&lt;/h2&gt;
+        <description>&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+
+&lt;h3 id=&quot;my-roles&quot;&gt;My Roles&lt;/h3&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;/h3&gt;
+
+&lt;h3 id=&quot;outcomes&quot;&gt;Outcomes&lt;/h3&gt;
+
+&lt;h2 id=&quot;this-one-should-feel-more-like-product-design&quot;&gt;This one should feel more like product design&lt;/h2&gt;
 
 &lt;p&gt;In a good way. I think it could be quite strong, too.&lt;/p&gt;
 </description>
