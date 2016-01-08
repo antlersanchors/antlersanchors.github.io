@@ -1,101 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://antlersandanchors.ca/littleBits/</loc>
+    <loc>http://127.0.0.1:4000/z-Actually-I%E2%80%99m-a-blog-post/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/We-Walk/</loc>
+    <loc>http://127.0.0.1:4000/littleBits/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/TikilluaritSMS/</loc>
+    <loc>http://127.0.0.1:4000/We-Walk/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Spot-On/</loc>
+    <loc>http://127.0.0.1:4000/TikilluaritSMS/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Sound-Painting/</loc>
+    <loc>http://127.0.0.1:4000/Spot-On/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Soft-Suit/</loc>
+    <loc>http://127.0.0.1:4000/Sound-Painting/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Philips/</loc>
+    <loc>http://127.0.0.1:4000/Soft-Suit/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Older-UX-Stuff/</loc>
+    <loc>http://127.0.0.1:4000/Philips/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Nap-Chair/</loc>
+    <loc>http://127.0.0.1:4000/Older-UX-Stuff/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/LED-Matrix-Bike/</loc>
+    <loc>http://127.0.0.1:4000/Nap-Chair/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Knock-Clock/</loc>
+    <loc>http://127.0.0.1:4000/LED-Matrix-Bike/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Graphite-and-Noise/</loc>
+    <loc>http://127.0.0.1:4000/Knock-Clock/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Generative-Design/</loc>
+    <loc>http://127.0.0.1:4000/Graphite-and-Noise/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Dream-of-the-Dead-Caribou/</loc>
+    <loc>http://127.0.0.1:4000/Generative-Design/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Crooked-Copenhagen/</loc>
+    <loc>http://127.0.0.1:4000/Dream-of-the-Dead-Caribou/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Copenhagen-Connect/</loc>
+    <loc>http://127.0.0.1:4000/Crooked-Copenhagen/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Cook-Studio/</loc>
+    <loc>http://127.0.0.1:4000/Copenhagen-Connect/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/City-Window/</loc>
+    <loc>http://127.0.0.1:4000/Cook-Studio/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Astergees/</loc>
+    <loc>http://127.0.0.1:4000/City-Window/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/Aspirational-Lamp/</loc>
+    <loc>http://127.0.0.1:4000/Astergees/</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/404.html</loc>
+    <loc>http://127.0.0.1:4000/Aspirational-Lamp/</loc>
+    <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/about/</loc>
+    <loc>http://127.0.0.1:4000/404.html</loc>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/</loc>
+    <loc>http://127.0.0.1:4000/about/</loc>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/michael/</loc>
+    <loc>http://127.0.0.1:4000/</loc>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/words/</loc>
+    <loc>http://127.0.0.1:4000/michael/</loc>
   </url>
   <url>
-    <loc>http://antlersandanchors.ca/work/</loc>
+    <loc>http://127.0.0.1:4000/words/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/work/</loc>
   </url>
 </urlset>

@@ -3,8 +3,41 @@
   <channel>
     <title>Hi, I’m Michael</title>
     <description>I design services and products, make music, and like to tell stories. Let’s talk!</description>
-    <link>http://antlersandanchors.ca</link>
-    <atom:link href="http://antlersandanchors.ca/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://127.0.0.1:4000</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Zzz Actually I’m a blog post</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/video_compression.gif&quot; alt=&quot;Featured Image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As featured in these influential publications!&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Wired&lt;/li&gt;
+    &lt;li&gt;Not Wired&lt;/li&gt;
+    &lt;li&gt;Also not Wired&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;smart-machines-in-a-time-of-planned-obsolescence&quot;&gt;Smart machines in a time of planned obsolescence&lt;/h3&gt;
+
+&lt;p&gt;What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them.&lt;/p&gt;
+
+&lt;h3 id=&quot;secret-life-of-objects&quot;&gt;Secret Life of Objects&lt;/h3&gt;
+
+&lt;p&gt;Our brief was to investigate the behaviours and interactions of the “object oriented home” of the very near future, in which household objects will be increasingly expected to learn, adapt, and evolve in response to the behaviours of their owners. How much intelligence will our “smart” objects have, and how much autonomy? Might dedicated appliances give ground to more multipurpose sensors and actuators, that can be controlled by a centralized system? What would an emergent economy of such networked machines look like, and what would be a “smart” object’s response to the very human business model of planned obsolescence?&lt;/p&gt;
+
+&lt;h3 id=&quot;building-it&quot;&gt;Building It&lt;/h3&gt;
+
+&lt;p&gt;We initially framed the project around an exploration of objects that could go beyond being highly efficient to creating a net gain of energy through adaptive behaviours. This led us to wonder about how a peer-to-peer economy of machines would function, and what they could trade—capital, new firmware or algorithms, carbon credits—and how these competing priorities would manifest themselves in the products’ behaviour.&lt;/p&gt;
+
+&lt;p&gt;We constructed the lamp prototypes from a mixture of salvaged or recycled parts, laser cut components, and off the shelf materials. An Arduino Uno controls two servo motors, and the lamp’s has some simple behaviours that are triggered by the presence or absence of a person next to it. We also prototyped a dashboard interface that provided visual feedback on the lamp’s activities and behaviours over time.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/z-Actually-I%E2%80%99m-a-blog-post/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/z-Actually-I%E2%80%99m-a-blog-post/</guid>
+      </item>
     
       <item>
         <title>littleBits Gaming Kit</title>
@@ -13,8 +46,8 @@
 &lt;p&gt;… Because it was awesome&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/littleBits/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/littleBits/</guid>
+        <link>http://127.0.0.1:4000/littleBits/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/littleBits/</guid>
       </item>
     
       <item>
@@ -30,8 +63,8 @@
 &lt;p&gt;Jep.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/We-Walk/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/We-Walk/</guid>
+        <link>http://127.0.0.1:4000/We-Walk/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/We-Walk/</guid>
       </item>
     
       <item>
@@ -41,8 +74,8 @@
 &lt;p&gt;Not worried here :)&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/TikilluaritSMS/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/TikilluaritSMS/</guid>
+        <link>http://127.0.0.1:4000/TikilluaritSMS/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/TikilluaritSMS/</guid>
       </item>
     
       <item>
@@ -52,8 +85,8 @@
 &lt;p&gt;In a good way. I think it could be quite strong, too.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/Spot-On/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/Spot-On/</guid>
+        <link>http://127.0.0.1:4000/Spot-On/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Spot-On/</guid>
       </item>
     
       <item>
@@ -67,8 +100,8 @@
 &lt;h3 id=&quot;talk-about-reusing-the-code-elsewhere&quot;&gt;Talk about reusing the code elsewhere&lt;/h3&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/Sound-Painting/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/Sound-Painting/</guid>
+        <link>http://127.0.0.1:4000/Sound-Painting/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Sound-Painting/</guid>
       </item>
     
       <item>
@@ -78,8 +111,8 @@
 &lt;p&gt;Can’t do much with this until the video is finished, I think.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/Soft-Suit/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/Soft-Suit/</guid>
+        <link>http://127.0.0.1:4000/Soft-Suit/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Soft-Suit/</guid>
       </item>
     
       <item>
@@ -93,8 +126,8 @@
 &lt;p&gt;I really loved making a mockumentary as an experience prototype/exploration.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/Philips/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/Philips/</guid>
+        <link>http://127.0.0.1:4000/Philips/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Philips/</guid>
       </item>
     
       <item>
@@ -110,8 +143,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/Older-UX-Stuff/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/Older-UX-Stuff/</guid>
+        <link>http://127.0.0.1:4000/Older-UX-Stuff/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Older-UX-Stuff/</guid>
       </item>
     
       <item>
@@ -125,19 +158,8 @@
 &lt;p&gt;I think the value of this project would be in the relatively minimal amount of time we actually took to conceive, script, shoot, and produce this video.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/Nap-Chair/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/Nap-Chair/</guid>
-      </item>
-    
-      <item>
-        <title>LED Matrix Bike</title>
-        <description>&lt;h2 id=&quot;the-greatest-project-that-didnt-work&quot;&gt;The Greatest Project that Didn’t Work&lt;/h2&gt;
-
-&lt;p&gt;Sad sad story here&lt;/p&gt;
-</description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://antlersandanchors.ca/LED-Matrix-Bike/</link>
-        <guid isPermaLink="true">http://antlersandanchors.ca/LED-Matrix-Bike/</guid>
+        <link>http://127.0.0.1:4000/Nap-Chair/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Nap-Chair/</guid>
       </item>
     
   </channel>
