@@ -204,7 +204,7 @@ p {
   font-weight: 300;
   line-height: 40px;
   max-width: 550px;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 @media screen and (max-width: 640px) {
   #home p.site-description {
