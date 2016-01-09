@@ -29,6 +29,8 @@ body {
   max-width: 980px;
   padding: 0 10px;
   width: 100%;
+  background-color: $white;
+  z-index: 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -55,9 +57,41 @@ h1 {
   }
 }
 
+.hero-container {
+  margin-top: 10px;
+  // z-index: -999;
+  // position: fixed;
+}
+
 .hero-img {
-  // z-index: 0;
+  // z-index: -998;
+  // position: relative;
   // margin-bottom: -300px;
+}
+
+.logo-container {
+  /* remove default list styles */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  //  remove spaces between li tags
+  font-size: 0;
+}
+
+.logo-container li {
+  display: inline-block;
+  // // float: left;
+  vertical-align: top;
+  width: 20%;
+  padding: 2%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.logo-container img {
+  display: block;
+  width: 100%;
 }
 
 .post h1 {
@@ -129,7 +163,7 @@ p {
   font-weight: 300;
   line-height: 40px;
   max-width: 550px;
-  margin-bottom: 120px;
+  margin-bottom: 100px;
   @include mobile {
     margin: 30px 20px 60px 20px;
   }
