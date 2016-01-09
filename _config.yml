@@ -15,6 +15,14 @@ avatar: ../images/little_headshot_50x50.jpeg
 # Flags below are optional
 #
 
+# I’m implementing the (currently beta) collections feature
+# here for the portfolio pages
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
