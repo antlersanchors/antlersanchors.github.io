@@ -14,5 +14,4 @@ I have some! Totally can do these things
 * Bar
 
 
-> Portfolio blocks totally go here
-
+{% include portfolio_blocks.html %}
