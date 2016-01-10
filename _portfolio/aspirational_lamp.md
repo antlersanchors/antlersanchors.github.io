@@ -4,16 +4,19 @@ title: The Aspirational Lamp
 desc: Smart objects in a time of planned obsolescence
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 01
+heroic: /images/candidates/aspirational_lamp_interior.jpg
 ---
 
 
-> As featured in these influential publications!
+> Things people wrote about our lamp:
 >
-> * Wired
-> * Not Wired
+> * FastCo Design: [What if Your Furniture Could Make You Money?](http://www.fastcodesign.com/3047488/what-if-your-furniture-could-make-you-money)
+> * PSFK.com: [“Bright” Lamp Understands Stock Market](http://www.psfk.com/2015/06/invest-in-stock-market-stocks-aspirational-lamp-copenhagen-institute-of-interaction-design.html)
+> * Wired (Italian site): [Aspirational Lamp, la lampada da scrivania che può guadagnare più di te](http://www.wired.it/tv/aspirational-lamp-lampada-scrivania-puo-guadagnare/)
+> * Vice Creators Project (Dutch site): [Wat als je lamp automatisch geld zou verdienen als je zelf weg bent?](http://thecreatorsproject.vice.com/nl/blog/deze-lamp-investeert-zonne-energie-in-de-aandelenmarkt-om-geld-voor-je-te-verdienen)
 > * Also not Wired
 
-### Smart machines in a time of planned obsolescence
+### Smart Machines in the Time of Planned Obsolescence
 
 What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them. 
 
