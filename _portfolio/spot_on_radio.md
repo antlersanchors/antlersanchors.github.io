@@ -7,9 +7,6 @@ proj-num: 01
 heroic: /images/candidates/lego_sequencer_prototype_1.png
 ---
 
-# Test of the Portfolio Collection Broadcast System
-
-## Project Description
 Tangible, ambient, and socialized interface for streaming radio 
 
 ##### Team
@@ -35,3 +32,5 @@ Make a Processing sketch prototype!
 This one should feel more like product design
 
 In a good way. I think it could be quite strong, too.
+
+# Gallery
