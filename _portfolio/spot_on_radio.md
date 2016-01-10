@@ -34,3 +34,5 @@ This one should feel more like product design
 In a good way. I think it could be quite strong, too.
 
 # Gallery
+
+### Forward and Back Links

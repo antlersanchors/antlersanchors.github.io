@@ -103,6 +103,63 @@
     <loc>http://127.0.0.1:4000/work/</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio/UX_work/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/aspirational_lamp/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/astergees/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/city_window/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/cook_studio/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/copenhagen_connect/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/crooked_copenhagen/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/dream_of_the_dead_caribou/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/edible_emotion/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/generative_design/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/graphite_and_noise/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/knock_clock/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/led_matrix_bike/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/littleBits_gaming_kit/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/nap_mode/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/soft_suit/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/sound_painting/</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/portfolio/spot_on_radio/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/tikilluaritSMS/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/we_walk/</loc>
   </url>
 </urlset>
