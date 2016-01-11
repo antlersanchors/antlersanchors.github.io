@@ -16,9 +16,26 @@ heroic: /images/candidates/aspirational_lamp_interior.jpg
 > * Vice Creators Project (Dutch site): [Wat als je lamp automatisch geld zou verdienen als je zelf weg bent?](http://thecreatorsproject.vice.com/nl/blog/deze-lamp-investeert-zonne-energie-in-de-aandelenmarkt-om-geld-voor-je-te-verdienen)
 > * Also not Wired
 
+##### Team
+Feild Craddock, Akshay Verma, Michael-Owen Liston
+
+##### Skills Used
+Rapid Prototyping, Physical Computing, Physical Fabrication, Data Visualization
+
+##### Date
+May 2015
+
+##### Context
+Secret Life of Objects course at CIID
+
+## What I Learned
+Bearings are the secret sauce of life
+
 ### Smart Machines in the Time of Planned Obsolescence
 
 What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them. 
+
+# FEATURED VIDEO
 
 ### Secret Life of Objects
 

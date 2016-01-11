@@ -91,10 +91,46 @@
     <loc>http://127.0.0.1:4000/about/</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/astergees.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/cook_studio.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/copenhagen_connect.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/crooked_copenhagen.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/dream_of_the_dead_caribou.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/edible_emotion.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/generative_design.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/knock_clock.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/littleBits_gaming_kit.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/michael/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/soft_suit.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/sound_painting.html</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/we_walk.html</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/words/</loc>
@@ -109,9 +145,6 @@
     <loc>http://127.0.0.1:4000/portfolio/aspirational_lamp/</loc>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/portfolio/astergees/</loc>
-  </url>
-  <url>
     <loc>http://127.0.0.1:4000/portfolio/city_window/</loc>
   </url>
   <url>
@@ -124,45 +157,9 @@
     <loc>http://127.0.0.1:4000/portfolio/nap_mode/</loc>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/astergees/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/cook_studio/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/copenhagen_connect/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/crooked_copenhagen/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/dream_of_the_dead_caribou/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/edible_emotion/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/generative_design/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/knock_clock/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/littleBits_gaming_kit/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/soft_suit/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/sound_painting/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/tikilluaritSMS/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/portfolio_reserve/we_walk/</loc>
-  </url>
-  <url>
     <loc>http://127.0.0.1:4000/portfolio/spot_on_radio/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/tikilluaritSMS/</loc>
   </url>
 </urlset>

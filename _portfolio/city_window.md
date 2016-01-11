@@ -4,9 +4,28 @@ title: City Window
 desc: Connecting visitors and locals through remote, guided micro-tours 
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/
 proj-num: 01
+heroic: /images/candidates/city_window_live.png
 ---
 
-> ZOMG it got shortlisted for the IxDA Awards!
+> ZOMG it got shortlisted for the 2016 Interaction Awards!
+> ![City Window was shortlisted for the 2016 Interaction Awards, in the Connecting category]({{ site.baseurl }}/images/interaction_award_shortlisted.png)
+
+##### Team
+Alejandra Molina, Victoria Hammel, Riccardo Cereser, Michael-Owen Liston
+
+##### Skills Used
+Experience Prototyping, Video Prototyping, Interface Design, Service Design
+
+##### Date
+June 2015
+
+##### Context
+Emotive Digital Services course at CIID
+
+## What I Learned
+Video can do amazing things!
+
+# FEATURED VIDEO
 
 ### City Window
 

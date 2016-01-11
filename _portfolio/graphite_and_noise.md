@@ -6,7 +6,22 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/materials-of-electron
 proj-num: 01
 ---
 
+##### Team
+Andreas Refsgaard, Michael-Owen Liston
 
+##### Skills Used
+Electronics, Conductive Materials, Video Documentation
+
+##### Date
+March 2015
+
+##### Context
+Material of Electronics course at CIID
+
+## What I Learned
+Lots of things can conduct electricity! There’s a story in everything.
+
+# FEATURED VIDEO
 
 ### Materials of Electronics
 
