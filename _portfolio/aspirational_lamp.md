@@ -7,8 +7,14 @@ proj-num: 01
 heroic: /images/candidates/aspirational_lamp_interior.jpg
 ---
 
+### Smart Machines in the Time of Planned Obsolescence
 
-> Things people wrote about our lamp:
+What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them.
+
+### What I Learned
+Bearings are the secret sauce of life
+
+> Read things that people wrote about our lamp:
 >
 > * FastCo Design: [What if Your Furniture Could Make You Money?](http://www.fastcodesign.com/3047488/what-if-your-furniture-could-make-you-money)
 > * PSFK.com: [“Bright” Lamp Understands Stock Market](http://www.psfk.com/2015/06/invest-in-stock-market-stocks-aspirational-lamp-copenhagen-institute-of-interaction-design.html)
@@ -26,16 +32,9 @@ Rapid Prototyping, Physical Computing, Physical Fabrication, Data Visualization
 May 2015
 
 ##### Context
-Secret Life of Objects course at CIID
+[Secret Life of Objects course at CIID](http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/)
 
-## What I Learned
-Bearings are the secret sauce of life
 
-### Smart Machines in the Time of Planned Obsolescence
-
-What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them. 
-
-# FEATURED VIDEO
 
 ### Secret Life of Objects
 

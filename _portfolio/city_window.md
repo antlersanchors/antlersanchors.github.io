@@ -4,11 +4,18 @@ title: City Window
 desc: Connecting visitors and locals through remote, guided micro-tours 
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/
 proj-num: 01
-heroic: /images/candidates/city_window_live.png
+heroic: /images/candidates/city_window_live.jpg
 ---
 
-> ZOMG it got shortlisted for the 2016 Interaction Awards!
-> ![City Window was shortlisted for the 2016 Interaction Awards, in the Connecting category]({{ site.baseurl }}/images/interaction_award_shortlisted.png)
+
+City Window is a live-streaming service that allows tourists to experience a short “micro tour”, guided remotely by a local from the place they are visiting.
+
+### What I Learned
+Video can do amazing things!
+
+> City Window was shortlisted for the 2016 Interaction Awards, in the Connecting category!
+>
+> [Watch Alejandra talk about our project and prototyping process here.](http://awards.ixda.org/entry/2016/city-window/)
 
 ##### Team
 Alejandra Molina, Victoria Hammel, Riccardo Cereser, Michael-Owen Liston
@@ -20,16 +27,13 @@ Experience Prototyping, Video Prototyping, Interface Design, Service Design
 June 2015
 
 ##### Context
-Emotive Digital Services course at CIID
+[Emotive Digital Services course at CIID](http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/)
 
-## What I Learned
-Video can do amazing things!
-
-# FEATURED VIDEO
+<iframe src="https://player.vimeo.com/video/138462032?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### City Window
 
-City Window is a live-streaming service that allows tourists to experience a short “micro tour”, guided remotely by a local from the place they are visiting. Conceived as a free service, with a “karma economy” model similar to Couchsurfing, City Window offers both tourists and guides an experience of meeting new people from other countries. Guides are able to personally share something they love about their city, and tourists are able to get off the well-trodden path of mass-market group tours.
+Conceived as a free service, with a “karma economy” model similar to Couchsurfing, City Window offers both tourists and guides an experience of meeting new people from other countries. Guides are able to personally share something they love about their city, and tourists are able to get off the well-trodden path of mass-market group tours.
 
 Tourists can browse available guides by location of tour and particular topics of interest, such as culture, food and drink, or history. The selected guide is notified of an incoming request and given the opportunity to accept or decline. City Window tours are topical but informal, and are time limited, which helps to create a comfortable, casual mood for the participants by keeping the commitment and expectations reasonable.
 
