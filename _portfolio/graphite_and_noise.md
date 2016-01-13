@@ -6,6 +6,9 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/materials-of-electron
 proj-num: 01
 ---
 
+## What I Learned
+Lots of things can conduct electricity! There’s a story in everything.
+
 ##### Team
 Andreas Refsgaard, Michael-Owen Liston
 
@@ -16,12 +19,9 @@ Electronics, Conductive Materials, Video Documentation
 March 2015
 
 ##### Context
-Material of Electronics course at CIID
+[Material of Electronics course at CIID](http://ciid.dk/education/portfolio/idp15/courses/materials-of-electronics/projects/graphite-and-noise/)
 
-## What I Learned
-Lots of things can conduct electricity! There’s a story in everything.
-
-# FEATURED VIDEO
+<iframe src="https://player.vimeo.com/video/144221501?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Materials of Electronics
 

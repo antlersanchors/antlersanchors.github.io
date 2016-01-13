@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: City Window
 desc: Connecting visitors and locals through remote, guided micro-tours 
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/

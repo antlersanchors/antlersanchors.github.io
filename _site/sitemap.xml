@@ -88,6 +88,9 @@
     <loc>http://127.0.0.1:4000/404.html</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/UX_work.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/about/</loc>
   </url>
   <url>
@@ -124,6 +127,9 @@
     <loc>http://127.0.0.1:4000/michael/</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/sickKids.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/portfolio_reserve/soft_suit.html</loc>
   </url>
   <url>
@@ -139,10 +145,10 @@
     <loc>http://127.0.0.1:4000/work/</loc>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/portfolio/UX_work/</loc>
+    <loc>http://127.0.0.1:4000/portfolio/aspirational_lamp/</loc>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/portfolio/aspirational_lamp/</loc>
+    <loc>http://127.0.0.1:4000/portfolio/bibliocommons/</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio/city_window/</loc>
@@ -158,6 +164,9 @@
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio/spot_on_radio/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio/strategic_redesign/</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio/tikilluaritSMS/</loc>
