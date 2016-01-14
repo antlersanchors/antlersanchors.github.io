@@ -20,7 +20,6 @@ Bearings are the secret sauce of life
 > * PSFK.com: [“Bright” Lamp Understands Stock Market](http://www.psfk.com/2015/06/invest-in-stock-market-stocks-aspirational-lamp-copenhagen-institute-of-interaction-design.html)
 > * Wired (Italian site): [Aspirational Lamp, la lampada da scrivania che può guadagnare più di te](http://www.wired.it/tv/aspirational-lamp-lampada-scrivania-puo-guadagnare/)
 > * Vice Creators Project (Dutch site): [Wat als je lamp automatisch geld zou verdienen als je zelf weg bent?](http://thecreatorsproject.vice.com/nl/blog/deze-lamp-investeert-zonne-energie-in-de-aandelenmarkt-om-geld-voor-je-te-verdienen)
-> * Also not Wired
 
 ##### Team
 Feild Craddock, Akshay Verma, Michael-Owen Liston
@@ -34,7 +33,7 @@ May 2015
 ##### Context
 [Secret Life of Objects course at CIID](http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/)
 
-
+<iframe src="https://player.vimeo.com/video/130375657?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Secret Life of Objects
 

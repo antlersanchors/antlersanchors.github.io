@@ -115,16 +115,25 @@
     <loc>http://127.0.0.1:4000/portfolio_reserve/generative_design.html</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/graphite_and_noise.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio_reserve/knock_clock.html</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/led_matrix_bike.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/portfolio_reserve/littleBits_gaming_kit.html</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/michael/</loc>
+  </url>
+  <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/nap_mode.html</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio_reserve/sickKids.html</loc>
@@ -154,13 +163,7 @@
     <loc>http://127.0.0.1:4000/portfolio/city_window/</loc>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/portfolio/graphite_and_noise/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/led_matrix_bike/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/nap_mode/</loc>
+    <loc>http://127.0.0.1:4000/portfolio/hospital_service_design/</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio/spot_on_radio/</loc>
