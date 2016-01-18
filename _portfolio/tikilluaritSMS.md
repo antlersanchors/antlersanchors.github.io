@@ -11,6 +11,8 @@ TikilluaritSMS is a service that supports Greenlanders who have recently moved t
 
 Conversational, SMS chatbots provide a low-barrier, always-on means of engaging with the service. People can use their natural language to describe their needs, without needing to first learn the terminology of Danish bureaucracy, which currently presents a major obstacle for Greenlanders seeking support in Denmark. The service can be both empathetic and proactive, suggesting opportunities for people based on their expressed interests and needs. TikilluaritSMS may be less than a person, but it‘s more than a form.
 
+Working with the Greenlandic community in Copenhagen, and service organizations like the Greenlandic House, I developed a functional prototype of the service.
+
 ### The Why: Cultural Context
 
 Why Greenland? Great question! Greenland’s 56,000 inhabitants are of predominantly Inuit background, and have a rich, vibrant, very distinct culture to that of Denmark. As a former colony of Denmark, however, Greenlanders are Danish passport holders and can travel just as freely as any other Dane to and from the Danish mainland. There are approximately 20,000 Greenlanders living in Denmark, but those who make the move often experience significant challenges, including stigma, racism, language barriers, profound culture shock, and challenges accessing basic services and supports. I had been curious about the status of the Greenlanders in Copenhagen during my year at CIID, and my final project afforded me an amazing opportunity to develop relationships within the community and collaborate with them.
@@ -25,8 +27,7 @@ In my research I learned that some Greenlanders did not have a mental model of t
 
 ### The Process
 
-I conducted a 
-
+I conducted a bunch of user centered research. I went and met Greenlanders and service providers and I got to know some of their stories
 
 ### Next Steps
 
