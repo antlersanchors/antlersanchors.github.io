@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategic Redesign
-desc: Smart objects in a time of planned obsolescence
+desc: Strategy is Awesome
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 01
 ---
