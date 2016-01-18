@@ -397,6 +397,10 @@ nav a {
   }
 }
 
+.heroic {
+  margin-top: 10px;
+}
+
 .post blockquote {
   margin: 1.8em .8em;
   border-left: 1px dotted #777;
