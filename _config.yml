@@ -22,7 +22,11 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-    
+
+# Adding phone number and email variables
+# so I don’t forget to change it
+current_phone_number: +1-647-574-3325
+current_email_address: michaelowen.liston [at] gmail.com
 
 # Includes an icon in the footer for each username you enter
 footer-links:
