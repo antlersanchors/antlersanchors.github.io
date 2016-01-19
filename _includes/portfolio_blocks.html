@@ -1,7 +1,7 @@
 <div class="posts clearfix">
   {% for portfolio in site.portfolio reversed %}
     <a href="{{ site.baseurl }}{{ portfolio.url }}">
-      <article class="post">    
+      <article class="post .grid-display">    
         <!-- <div class="eyebrow">{{ post.date | date: "%d %b %Y" }}</div> -->
         <div class="eyebrow">{{ portfolio.tags }}</div>
         <h1>{{ portfolio.title }}</h1>
