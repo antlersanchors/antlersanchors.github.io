@@ -3,7 +3,7 @@ layout: portfolio
 title: BiblioCommons
 desc: Libraries
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
-proj-num: 01
+proj-num: 05
 heroic: /images/bibliocommons/flow_maps.jpg
 tags: Product Design, Agile, UI
 ---

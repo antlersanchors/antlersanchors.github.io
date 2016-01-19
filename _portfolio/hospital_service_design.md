@@ -3,7 +3,7 @@ layout: portfolio
 title: Hospital Service Design
 desc: The greatest intranet
 proj-url: https://github.com/femmebot/jekyll-grid
-proj-num: 01
+proj-num: 06
 tags: Service Design, Strategy, Research
 heroic: /images/hospital_service_design/hospital_archetype_matrix.jpg
 ---

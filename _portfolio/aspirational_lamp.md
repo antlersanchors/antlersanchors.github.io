@@ -3,7 +3,7 @@ layout: portfolio
 title: The Aspirational Lamp
 desc: Smart objects in a time of planned obsolescence
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
-proj-num: 01
+proj-num: 03
 heroic: /images/candidates/aspirational_lamp_interior.jpg
 tags: Physical Computing, Critical Design
 ---

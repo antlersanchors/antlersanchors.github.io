@@ -1,5 +1,5 @@
 <div class="posts">
-  {% for portfolio in site.portfolio %}
+  {% for portfolio in site.portfolio reversed %}
     <a href="{{ site.baseurl }}{{ portfolio.url }}">
       <article class="post">    
         <!-- <div class="eyebrow">{{ post.date | date: "%d %b %Y" }}</div> -->
