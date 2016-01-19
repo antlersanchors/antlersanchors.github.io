@@ -18,7 +18,7 @@ Contextual Inquiry, People Centered Research, Participatory Co-Design, Service D
 Fall 2014
 
 ##### Context
-Strategic Design and UX consulting at Usability Matters, for a company in the financial CRM sector 
+Strategic Design and UX consulting at Usability Matters, for a company in the financial CRM sector
 
 While at Usability Matters I led the redesign project for the keystone digital product of a provider of Customer Experience Management services in the financial sector. The research and design phases involved extensive interviews with internal stakeholders, contextual inquiry sessions with external end-user clients, as well as regular participatory workshops. As the company was looking at the prospect of a significant shift of internal resources, our work was as much about helping them to document, understand, and socialize their own internal systems and culture, as well as those of their clients, as it was about designing portal dashboards and push notification frameworks.
 
