@@ -5,6 +5,7 @@ desc: Smart objects in a time of planned obsolescence
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 01
 heroic: /images/candidates/aspirational_lamp_interior.jpg
+tags: Physical Computing, Critical Design
 ---
 
 ### Smart Machines in the Time of Planned Obsolescence

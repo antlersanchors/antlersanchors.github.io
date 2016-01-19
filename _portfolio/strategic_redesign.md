@@ -5,6 +5,8 @@ desc: Strategy is Awesome
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 01
 heroic: /images/portal_service_design/dashboard_UI_crop.jpg
+tags: death, death, death
+tags: Product Design, Strategy, Research
 ---
 
 ##### Team

@@ -5,6 +5,7 @@ desc: Libraries
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 01
 heroic: /images/bibliocommons/flow_maps.jpg
+tags: Product Design, Agile, UI
 ---
 
 At BiblioCommons, I worked as a lead UX designer, embedded in an Agile product development team, providing a range of SaaS solutions for public libraries around the world. At the time, the entire design team was about 4 people within a 50-plus sized company of engineers and support staff. I also “freelanced” for other teams, as needed.

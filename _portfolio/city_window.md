@@ -5,6 +5,7 @@ desc: Connecting visitors and locals through remote, guided micro-tours
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/
 proj-num: 01
 heroic: /images/candidates/city_window_live.jpg
+tags: Service Design, Video Prototyping, UI
 ---
 
 

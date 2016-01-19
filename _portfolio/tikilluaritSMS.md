@@ -5,6 +5,7 @@ desc: Connecting Greenlanders in Denmark
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
 heroic: /images/tikilluarit/ivalo_laugh_with_logo.jpg
+tags: Service Design, Prototyping, Research
 ---
 
 TikilluaritSMS (“Tikilluarit” means welcome in Greenlandic) is an SMS chatbot-based service that supports Greenlanders who have recently moved to Denmark. It connects them with resources — both formal, governmental services, as well as knowledge, experience, and people within the community.

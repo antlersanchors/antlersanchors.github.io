@@ -140,11 +140,16 @@ h1 a:hover {
   line-height: 1.1;
 }
 
+#home .blog-post {
+  background-color: #f2f2f2;
+  margin-left: 5px;
+}
+
 #home .post {
   width: 220px;
   float: left;
   vertical-align: top;
-  margin: 0 20px 0 0;
+  margin: .3em 20px 0 0;
   height: 360px;
   overflow: hidden;
 }
