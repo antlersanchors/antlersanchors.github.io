@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: TikilluaritSMS
-desc: Connecting Greenlanders in Denmark
+desc: Connecting Greenlanders in Denmark with chatbots
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
 heroic: /images/tikilluarit/ivalo_laugh_with_logo.jpg

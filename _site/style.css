@@ -167,6 +167,7 @@ h1 a:hover {
   margin: 0 0 12px;
   letter-spacing: normal;
   font-weight: 700;
+  color: #d42;
 }
 
 #home h1.site-name {
@@ -231,6 +232,11 @@ a {
 }
 a:hover, a:active {
   color: #c30;
+}
+
+a.post:hover, a.post:active {
+  transition: all 0.5s ease;
+  background-color: #777;
 }
 
 ul, ol {

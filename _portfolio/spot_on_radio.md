@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Spot On
-desc: Tangible, ambient, and socialized interface for streaming radio 
+desc: Tangible, socialized interface for streaming radio 
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
 heroic: /images/candidates/lego_sequencer_prototype_1.png
