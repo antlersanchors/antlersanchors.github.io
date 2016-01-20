@@ -9,7 +9,7 @@ name: Antlers and Anchors || Michael-Owen Liston
 description: Design portfolio and blog of Michael-Owen Liston
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://127.0.0.1:4000/images/little_headshot_50x50.jpeg
+avatar: http://antlersandanchors.ca/images/little_headshot_50x50.jpeg
 
 #
 # Flags below are optional
@@ -49,8 +49,8 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-# url: http://antlersandanchors.ca
-url: http://127.0.0.1:4000
+url: http://antlersandanchors.ca
+# url: http://127.0.0.1:4000
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
