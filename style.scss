@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 16px/23px $helveticaNeue;
+  background: $white;
+  font: 23px/33px $georgia;
   color: $gray;
   -webkit-font-smoothing: antialiased;
 }
@@ -29,6 +29,12 @@ body {
   max-width: 980px;
   padding: 0 10px;
   width: 100%;
+  // background-color: $white;
+  // z-index: 1;
+}
+
+.inline {
+  display: inline-block;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
   
 h1 {  
   font-size: 60px;
-  margin: 60px 0;
+  margin: 40px 0;
   a {
     color: $red;
     &:hover {
@@ -55,17 +61,59 @@ h1 {
   }
 }
 
+.hero-container {
+  margin-top: 10px;
+  // z-index: -999;
+}
+
+.hero-img {
+  // z-index: -998;
+  // position: relative;
+  // margin-bottom: -300px;
+}
+
+.logo-container {
+  /* remove default list styles */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  //  remove spaces between li tags
+  font-size: 0;
+}
+
+.logo-container li {
+  display: inline-block;
+  // // float: left;
+  vertical-align: top;
+  width: 20%;
+  padding: 2%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.logo-container img {
+  display: block;
+  width: 100%;
+}
+
 .post h1 {
   font-size: 60px;
   letter-spacing: -.03em;
   line-height: 1.1;
 }
 
+// Do we actually want differentiation for the blog post?
+#home .blog-post {
+  // background-color: $xlightGray;
+}
+
 #home .post {
   width: 220px;
   float: left;
   vertical-align: top;
-  margin: 0 20px 0 0;
+  margin: .3em 20px 0 0;
+  padding: .2em;
   height: 360px;
   overflow: hidden;
   @include mobile {
@@ -81,18 +129,19 @@ h1 {
   margin: 0 0 12px;
   letter-spacing: normal;
   font-weight: 700;
+  color: $red;
 }
 
 #home h1.site-name {
   font-size: 72px;
   line-height: 74px;
   font-weight: 700;
-  max-width: 600px;
+  max-width: 980px;
   margin-top: 30px;
   margin-bottom: 20px;
   letter-spacing: -.03em;
   a {
-    color: $darkGray;
+    color: $gray;
   }
   @include mobile {
     margin: 30px 20px 0;
@@ -123,12 +172,13 @@ p {
   font-size: 30px;
   font-weight: 300;
   line-height: 40px;
-  max-width: 600px;
-  margin-bottom: 20px;
+  max-width: 60%;
+  margin-bottom: 40px;
   @include mobile {
     margin: 30px 20px 60px 20px;
   }
 }
+
 #home .entry p {
   color: $gray;
 }
@@ -136,9 +186,17 @@ p {
 a {
   color: $red;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $darkRed;
+  }
+}
+
+.grid-display .post {
+  transition: background-color 0.3s ease;
+  &:hover, &:active {
+      transition: all 0.5s ease;
+      background-color: $xlightGray;
   }
 }
 
@@ -177,6 +235,7 @@ blockquote {
   padding: 0.1em 1em;
   background-color: $xlightGray;
   font-family: $helveticaNeue;
+  font-size: 18px;
 }
 
 img {
@@ -186,6 +245,10 @@ img {
 .date {
   font-size: 60%;
   color: $gray;
+}
+
+.grid-display p {
+  font: 18px/26px $helveticaNeue;
 }
 
 // Specify the color of the selection
@@ -275,7 +338,7 @@ nav {
   float: right;
   margin-top: 23px;
   font-family: $helveticaNeue; 
-  font-size: 12px;
+  font-size: 16px;
   
   @include mobile {
     float: none;
@@ -284,6 +347,7 @@ nav {
   }
 
   a {
+    transition: all .1s ease;
     margin-left: 20px;
     color: $gray;
     width: 175px;
@@ -291,11 +355,12 @@ nav {
     float: right;
 
     @include mobile {
+      transition: all .3s ease;
       display: inline-block;
       float: none;
       margin: 0 10px;
       color: $darkGray;
-      width: 150px;
+      width: 80px;
       text-align: left;
     }
   }
@@ -305,6 +370,10 @@ article {
   @include mobile {
     margin: 0 20px;
   }
+}
+
+.heroic {
+  margin-top: 10px;
 }
 
 .post { 
@@ -317,6 +386,7 @@ article {
 
   .eyebrow {
     font-size: 12px;
+    font-family: $helveticaNeue;
     line-height: 30px;
     color: $gray;
     padding-top: 6px;
@@ -363,6 +433,7 @@ article {
 footer {
   padding: 20px 0;
   text-align: center;
+  font: 12px $helveticaNeue;
 }
 
 
