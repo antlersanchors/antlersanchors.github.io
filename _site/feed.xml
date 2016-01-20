@@ -7,6 +7,19 @@
     <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>New year, new portfolio!</title>
+        <description>&lt;p&gt;This has been a year of big changes for me, and I’m excited to be able to share some of the work that I did in the 2015 Interaction Design Program at CIID. I’m just publishing a few pieces right now, that I think showcase some of my growth in a variety of areas, from service design to physical computing, but I look forward to posting more soon.&lt;/p&gt;
+
+&lt;p&gt;I’ve also been quite sparing in posting older work, for the time being, but I have added back a handful of examples of Interaction and User Experience Design work that I did before coming to CIID. It feels like a tricky balance to strike, between wanting to focus on what is fresh and immediate and exciting to me, while not neglecting the past! I’m looking at this portfolio itself as much an iterative process however, and I’ll see if I can’t find that balance in the coming weeks.&lt;/p&gt;
+
+&lt;p&gt;For the time being, I hope you enjoy your stay, and I’d love to hear any feedback you care to share.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/New-Year-New-Portfolio/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/New-Year-New-Portfolio/</guid>
+      </item>
+    
+      <item>
         <title>Mollis Offendit In Mea</title>
         <description>&lt;h2 id=&quot;h2-heading-looks-like-this&quot;&gt;H2 Heading Looks Like This&lt;/h2&gt;
 
