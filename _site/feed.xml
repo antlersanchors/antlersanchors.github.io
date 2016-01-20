@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TikilluaritSMS</title>
-    <description>Inissaqarnermut/inuuniarnermut apeqqutit?</description>
-    <link>http://tikilluarit.dk</link>
-    <atom:link href="http://tikilluarit.dk/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Antlers and Anchors || Michael-Owen Liston</title>
+    <description>Design portfolio and blog of Michael-Owen Liston</description>
+    <link>http://127.0.0.1:4000</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Mollis Offendit In Mea</title>
@@ -32,9 +32,9 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
-        <link>http://tikilluarit.dk/Mollis-offendit-in-mea/</link>
-        <guid isPermaLink="true">http://tikilluarit.dk/Mollis-offendit-in-mea/</guid>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/Mollis-offendit-in-mea/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Mollis-offendit-in-mea/</guid>
       </item>
     
       <item>
@@ -63,9 +63,9 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
-        <link>http://tikilluarit.dk/Lorem-Ipsum-Dolor/</link>
-        <guid isPermaLink="true">http://tikilluarit.dk/Lorem-Ipsum-Dolor/</guid>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/Lorem-Ipsum-Dolor/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Lorem-Ipsum-Dolor/</guid>
       </item>
     
       <item>
@@ -94,9 +94,9 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
-        <link>http://tikilluarit.dk/Another-Project-Title/</link>
-        <guid isPermaLink="true">http://tikilluarit.dk/Another-Project-Title/</guid>
+        <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/Another-Project-Title/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Another-Project-Title/</guid>
       </item>
     
       <item>
@@ -125,9 +125,9 @@ Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon ke
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-        <link>http://tikilluarit.dk/Hello-World/</link>
-        <guid isPermaLink="true">http://tikilluarit.dk/Hello-World/</guid>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/Hello-World/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/Hello-World/</guid>
       </item>
     
   </channel>
