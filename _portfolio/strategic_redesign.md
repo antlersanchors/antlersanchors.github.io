@@ -29,7 +29,7 @@ Our client had teams in both Toronto and New Jersey, as well as an internal cult
 
 Their engagement in the process also allowed us to present our strategic and tactical outputs to the company’s directorship as the product of significant internal work, rather than an externally driven vision.
 
-![Participatory Co-Design Workshop]( {{ site.url }}/images/strategic_redesign/workshop.jpg)
+![Participatory Co-Design Workshop]( {% site.url %}/images/strategic_redesign/workshop.jpg)
 
 ![Dashboard Wireframes]( {{ site.url }}/images/strategic_redesign/dashboard_wires.jpg)
 
