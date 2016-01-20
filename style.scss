@@ -136,12 +136,12 @@ h1 {
   font-size: 72px;
   line-height: 74px;
   font-weight: 700;
-  max-width: 600px;
+  max-width: 980px;
   margin-top: 30px;
   margin-bottom: 20px;
   letter-spacing: -.03em;
   a {
-    color: $darkGray;
+    color: $gray;
   }
   @include mobile {
     margin: 30px 20px 0;
@@ -433,6 +433,7 @@ article {
 footer {
   padding: 20px 0;
   text-align: center;
+  font: 12px $helveticaNeue;
 }
 
 

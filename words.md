@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Words
+title: 
 permalink: /words/
 ---
-
-## Things I’ve written
 
 {% include post_list.html %}
 
