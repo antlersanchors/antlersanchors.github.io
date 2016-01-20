@@ -347,7 +347,7 @@ nav {
   }
 
   a {
-    transition: all .1s ease;
+    // transition: all .1s ease;
     margin-left: 20px;
     color: $gray;
     width: 175px;
@@ -355,7 +355,7 @@ nav {
     float: right;
 
     @include mobile {
-      transition: all .3s ease;
+      // transition: all .3s ease;
       display: inline-block;
       float: none;
       margin: 0 10px;
