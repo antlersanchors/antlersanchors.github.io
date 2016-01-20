@@ -26,7 +26,7 @@ Greenland’s 56,000 inhabitants are of predominantly Inuit background, and have
 With the advances in the capabilities and adoption of intelligent assistant technologies such as Google Now and Apple’s Siri, natural language processing has become mainstream. We are simultaneously witnessing something of a renaissance for the humble chatbot, with SMS-based bot apps and the messaging service Slack’s own bot platform enjoying heightened popularity. Meanwhile in the public sector, open data initiatives the world over have begun to expose more of the workings of our communities in the name of transparency and democracy — though the capacity of most people to take advantage of this access is questionable, at best. And of course we have increasingly complex communities, widening gaps between rich and poor, and hollowing out of public resources and shared goods. To me this convergence of technical capacity, trends, and gaps seemed to present a fantastic opportunity.
 
 ### What I Learned
-Prototyping!
+I learned some new prototyping tricks, but I think my biggest learnings were around the challenge and craft of interviewing. It was a joy to develop relationships with the people I collaborated with during this project, and I was highly motivated to try and tell their stories well.
 
 > My IxDA Student Design Challenge submission, “SMS Chatbots for Civic Engagement” was selected as a finalist! My proposal directly built upon my TikilluaritSMS work.
 >

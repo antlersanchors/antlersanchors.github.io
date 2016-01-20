@@ -12,7 +12,7 @@ tags: Service Design, Video Prototyping, UI
 City Window is a live-streaming service that allows tourists to experience a short “micro tour”, guided remotely by a local from the place they are visiting.
 
 ### What I Learned
-Video can do amazing things!
+I learned a lot about how video prototypes could be used as internal communication tools, as well as part of experience prototyping with people on the street.
 
 > City Window was shortlisted for the 2016 Interaction Awards, in the Connecting category!
 >
