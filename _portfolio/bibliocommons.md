@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: BiblioCommons
-desc: Libraries
+desc: Designing the future of public library experiences
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 05
 heroic: /images/bibliocommons/flow_maps.jpg

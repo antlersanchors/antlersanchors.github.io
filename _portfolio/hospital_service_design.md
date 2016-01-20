@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Hospital Service Design
-desc: The greatest intranet
+desc: Helping a healthcare team of 8,000 communicate and collaborate
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 06
 tags: Service Design, Strategy, Research
@@ -23,10 +23,9 @@ The major output of this three month phase was a high level strategy deck, which
 ![SickKids service archetypes]( {{ site.baseurl }} /images/hospital_service_design/hospital_archetype.jpg)
 
 ### What I Learned
-* importance of not relying on one technique
-* it’s possible for a small team to synthesize incredible volumes of data, by designing your environment to support that process.
+* When it comes to research at scale, using multiple approaches is critical to get an array of perspectives.
+* It’s possible for a small team to synthesize incredible volumes of data, by designing your environment to support that process.
 * Job Titles ≠ Archetypes
-
 
 ##### Context
 Interaction Design consulting at Normative

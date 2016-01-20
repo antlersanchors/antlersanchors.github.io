@@ -65,6 +65,9 @@
     <loc>http://127.0.0.1:4000/portfolio_reserve/sound_painting.html</loc>
   </url>
   <url>
+    <loc>http://127.0.0.1:4000/portfolio_reserve/spot_on_radio.html</loc>
+  </url>
+  <url>
     <loc>http://127.0.0.1:4000/portfolio_reserve/we_walk.html</loc>
   </url>
   <url>
@@ -84,9 +87,6 @@
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio/hospital_service_design/</loc>
-  </url>
-  <url>
-    <loc>http://127.0.0.1:4000/portfolio/spot_on_radio/</loc>
   </url>
   <url>
     <loc>http://127.0.0.1:4000/portfolio/strategic_redesign/</loc>
