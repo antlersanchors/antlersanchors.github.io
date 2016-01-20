@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
   
 h1 {  
   font-size: 60px;
-  margin: 60px 0;
+  margin: 40px 0;
   a {
     color: $red;
     &:hover {
@@ -64,7 +64,6 @@ h1 {
 .hero-container {
   margin-top: 10px;
   // z-index: -999;
-  // position: fixed;
 }
 
 .hero-img {
@@ -104,9 +103,9 @@ h1 {
   line-height: 1.1;
 }
 
+// Do we actually want differentiation for the blog post?
 #home .blog-post {
-  background-color: $xlightGray;
-  margin-left: 5px;
+  // background-color: $xlightGray;
 }
 
 #home .post {
@@ -114,6 +113,7 @@ h1 {
   float: left;
   vertical-align: top;
   margin: .3em 20px 0 0;
+  padding: .2em;
   height: 360px;
   overflow: hidden;
   @include mobile {
@@ -192,10 +192,11 @@ a {
   }
 }
 
-a.post {
+.grid-display .post {
+  transition: background-color 0.3s ease;
   &:hover, &:active {
       transition: all 0.5s ease;
-      background-color: $gray;
+      background-color: $xlightGray;
   }
 }
 
@@ -234,6 +235,7 @@ blockquote {
   padding: 0.1em 1em;
   background-color: $xlightGray;
   font-family: $helveticaNeue;
+  font-size: 18px;
 }
 
 img {
@@ -243,6 +245,10 @@ img {
 .date {
   font-size: 60%;
   color: $gray;
+}
+
+.grid-display p {
+  font: 18px/26px $helveticaNeue;
 }
 
 // Specify the color of the selection
@@ -332,7 +338,7 @@ nav {
   float: right;
   margin-top: 23px;
   font-family: $helveticaNeue; 
-  font-size: 12px;
+  font-size: 16px;
   
   @include mobile {
     float: none;
@@ -341,6 +347,7 @@ nav {
   }
 
   a {
+    transition: all .1s ease;
     margin-left: 20px;
     color: $gray;
     width: 175px;
@@ -348,11 +355,12 @@ nav {
     float: right;
 
     @include mobile {
+      transition: all .3s ease;
       display: inline-block;
       float: none;
       margin: 0 10px;
       color: $darkGray;
-      width: 150px;
+      width: 80px;
       text-align: left;
     }
   }
@@ -378,6 +386,7 @@ article {
 
   .eyebrow {
     font-size: 12px;
+    font-family: $helveticaNeue;
     line-height: 30px;
     color: $gray;
     padding-top: 6px;

@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 60px;
-  margin: 60px 0;
+  margin: 40px 0;
 }
 h1 a {
   color: #d42;
@@ -139,16 +139,12 @@ h1 a:hover {
   line-height: 1.1;
 }
 
-#home .blog-post {
-  background-color: #f2f2f2;
-  margin-left: 5px;
-}
-
 #home .post {
   width: 220px;
   float: left;
   vertical-align: top;
   margin: .3em 20px 0 0;
+  padding: .2em;
   height: 360px;
   overflow: hidden;
 }
@@ -233,9 +229,12 @@ a:hover, a:active {
   color: #c30;
 }
 
-a.post:hover, a.post:active {
+.grid-display .post {
+  transition: background-color 0.3s ease;
+}
+.grid-display .post:hover, .grid-display .post:active {
   transition: all 0.5s ease;
-  background-color: #777;
+  background-color: #f2f2f2;
 }
 
 ul, ol {
@@ -273,6 +272,7 @@ blockquote {
   padding: 0.1em 1em;
   background-color: #f2f2f2;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
 }
 
 img {
@@ -282,6 +282,10 @@ img {
 .date {
   font-size: 60%;
   color: #777;
+}
+
+.grid-display p {
+  font: 18px/26px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 ::-moz-selection {
@@ -374,7 +378,7 @@ nav {
   float: right;
   margin-top: 23px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
 }
 @media screen and (max-width: 640px) {
   nav {
@@ -384,6 +388,7 @@ nav {
   }
 }
 nav a {
+  transition: all .1s ease;
   margin-left: 20px;
   color: #777;
   width: 175px;
@@ -392,11 +397,12 @@ nav a {
 }
 @media screen and (max-width: 640px) {
   nav a {
+    transition: all .3s ease;
     display: inline-block;
     float: none;
     margin: 0 10px;
     color: #555;
-    width: 150px;
+    width: 80px;
     text-align: left;
   }
 }
@@ -419,6 +425,7 @@ nav a {
 }
 .post .eyebrow {
   font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 30px;
   color: #777;
   padding-top: 6px;
