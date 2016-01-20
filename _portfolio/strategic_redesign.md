@@ -29,9 +29,9 @@ Our client had teams in both Toronto and New Jersey, as well as an internal cult
 
 Their engagement in the process also allowed us to present our strategic and tactical outputs to the company’s directorship as the product of significant internal work, rather than an externally driven vision.
 
-![Participatory Co-Design Workshop]( {{ site.url }} /images/portal_service_design/workshop.jpg)
+![Participatory Co-Design Workshop]( {{ site.baseurl }} /images/strategic_redesign/workshop.jpg)
 
-![Dashboard Wireframes]( {{ site.url }} /images/portal_service_design/dashboard_wires.jpg)
+![Dashboard Wireframes]( {{ site.baseurl }} /images/strategic_redesign/dashboard_wires.jpg)
 
 ## What I Learned
 Our client’s initial brief seemed considerably underdeveloped in some aspects, and I’m proud of the depth of the research and synthesis we did, in our efforts to better understand the larger context and problem space of the project. With hindsight and new inspiration, however, I would love to be able to take a radically different, accelerated approach to validating insights and building support within the organization. In particular, I would have used rapid experience prototyping with both the internal team and external end-user clients, combined with video documentation, to engage, inform, and inspire our clients much more effectively than relying on a fundamentally abstract strategy deck. What started off as a rather dry charting tool facelift revealed itself to be a project that revolved around the relationships between people and their often emotional needs. I think we could have iterated on and conveyed the value of design solutions very powerfully through video prototypes involving the end-user clients, and I look forward to utilizing that technique in the future.
