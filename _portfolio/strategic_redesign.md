@@ -4,7 +4,7 @@ title: A Portal to Service Design
 desc: Strategic consulting in the financial CRM sector
 proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/
 proj-num: 04
-heroic: /images/portal_service_design/dashboard_UI_crop.jpg
+heroic: /images/strategic_redesign/dashboard_UI_crop.jpg
 tags: Product Design, Strategy, Research
 ---
 
