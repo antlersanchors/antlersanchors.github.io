@@ -82,9 +82,8 @@ h1 {
 }
 
 .logo-container li {
+  vertical-align: middle;
   display: inline-block;
-  // // float: left;
-  vertical-align: top;
   width: 20%;
   padding: 2%;
   -moz-box-sizing: border-box;

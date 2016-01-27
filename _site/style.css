@@ -119,8 +119,8 @@ h1 a:hover {
 }
 
 .logo-container li {
+  vertical-align: middle;
   display: inline-block;
-  vertical-align: top;
   width: 20%;
   padding: 2%;
   -moz-box-sizing: border-box;
