@@ -334,6 +334,12 @@ img {
   }
 }
 
+.partners-section {
+  @include mobile {
+    margin: 0 20px;
+  }
+}
+
 nav {
   float: right;
   margin-top: 23px;

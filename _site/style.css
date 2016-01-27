@@ -374,6 +374,12 @@ img {
   }
 }
 
+@media screen and (max-width: 640px) {
+  .partners-section {
+    margin: 0 20px;
+  }
+}
+
 nav {
   float: right;
   margin-top: 23px;
