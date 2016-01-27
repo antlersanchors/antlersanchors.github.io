@@ -11,7 +11,9 @@ I’m passionate about the intersection of human needs, technology, and design. 
 
 As a creative and critical generalist, I love wrangling with the full spectrum of the designer’s toolkit, from strategic people-craft, to the not-so-fuzzy front end of the web, but I believe that deep listening, capacity for synthesis, and storytelling form the pillars of my practice. I’ve begun to explore the potential of video as a powerful tool for both prototyping and documentation throughout my process, and I’m excited to develop that skill-set further.
 
-![København Kommune Presentation]( {{ site.baseurl }} /images/candidates/michael_kommune_presentation-2.jpg)
+<!-- ![København Kommune Presentation]( {{ site.baseurl | image_tag: "class:fade-in"}} /images/candidates/michael_kommune_presentation-2.jpg) -->
+
+<img alt="København Kommune Presentation" src="{{ site.baseurl }} /images/candidates/michael_kommune_presentation-2.jpg" class="fade-in" />
 
 My current personal projects include TikilluaritSMS, a service I co-developed with Copenhagen’s Greenlandic community. It’s an SMS chatbot service that makes support and resources more accessible for vulnerable people in our communities. I am honoured that my IxDA 2016 Student Design Challenge submission “SMS Chatbots for Civic Engagement”, which was based largely off of this work, was selected as a finalist entry. I am also beginning to develop workshops for designers and others who would like to use video storytelling techniques in their practice. I co-founded Service Design Toronto with Linn Vizard in 2012.
 
