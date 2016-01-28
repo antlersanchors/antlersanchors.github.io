@@ -121,7 +121,7 @@ body {
   width: 100%;
 }
 
-.inline {
+.inline, ul.work-list li {
   display: inline-block;
 }
 
@@ -183,7 +183,7 @@ h1 a:hover {
   line-height: 1.1;
 }
 
-#home .post {
+.grid-display .post, ul.work-list .post {
   width: 220px;
   float: left;
   vertical-align: top;
@@ -193,13 +193,13 @@ h1 a:hover {
   overflow: hidden;
 }
 @media screen and (max-width: 640px) {
-  #home .post {
+  .grid-display .post, ul.work-list .post {
     margin: 0 20px;
     width: 300px;
   }
 }
 
-#home .post h1 {
+.grid-display .post h1, ul.work-list .post h1 {
   font-size: 24px;
   line-height: 1.2;
   min-height: 60px;
@@ -209,7 +209,7 @@ h1 a:hover {
   color: #d42;
 }
 
-#home h1.site-name {
+.grid-display h1.site-name, ul.work-list h1.site-name {
   font-size: 72px;
   line-height: 74px;
   font-weight: 700;
@@ -218,11 +218,11 @@ h1 a:hover {
   margin-bottom: 20px;
   letter-spacing: -.03em;
 }
-#home h1.site-name a {
+.grid-display h1.site-name a, ul.work-list h1.site-name a {
   color: #777;
 }
 @media screen and (max-width: 640px) {
-  #home h1.site-name {
+  .grid-display h1.site-name, ul.work-list h1.site-name {
     margin: 30px 20px 0;
   }
 }
@@ -247,7 +247,7 @@ p {
   margin: 15px 0;
 }
 
-#home p.site-description {
+.grid-display p.site-description, ul.work-list p.site-description {
   font-size: 30px;
   font-weight: 300;
   line-height: 40px;
@@ -255,12 +255,12 @@ p {
   margin-bottom: 40px;
 }
 @media screen and (max-width: 640px) {
-  #home p.site-description {
+  .grid-display p.site-description, ul.work-list p.site-description {
     margin: 30px 20px 60px 20px;
   }
 }
 
-#home .entry p {
+.grid-display .entry p, ul.work-list .entry p {
   color: #777;
 }
 
@@ -268,15 +268,17 @@ a {
   color: #d42;
   text-decoration: none;
   cursor: pointer;
+  border-bottom: 2px dotted #ccc;
+  padding-bottom: 2px;
 }
 a:hover, a:active {
   color: #c30;
 }
 
-.grid-display .post {
+.grid-display .post, ul.work-list .post {
   transition: background-color 0.3s ease;
 }
-.grid-display .post:hover, .grid-display .post:active {
+.grid-display .post:hover, ul.work-list .post:hover, .grid-display .post:active, ul.work-list .post:active {
   transition: all 0.5s ease;
   background-color: #f2f2f2;
 }
@@ -328,7 +330,7 @@ img {
   color: #777;
 }
 
-.grid-display p {
+.grid-display p, ul.work-list p {
   font: 18px/26px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -342,13 +344,14 @@ img {
   background: #ccc;
 }
 
-.clearfix:before,
-.clearfix:after {
+.clearfix:before, ul.work-list:before,
+.clearfix:after,
+ul.work-list:after {
   content: " ";
   display: table;
 }
 
-.clearfix:after {
+.clearfix:after, ul.work-list:after {
   clear: both;
 }
 
@@ -375,6 +378,7 @@ img {
   height: 50px;
   margin-right: 15px;
   margin-bottom: 15px;
+  border: none;
 }
 @media screen and (max-width: 640px) {
   .site-avatar {
@@ -424,6 +428,34 @@ img {
   }
 }
 
+ul.work-list {
+  list-style: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+ul.work-list strong {
+  font-size: 13px;
+  color: #777;
+}
+ul.work-list li {
+  width: 30%;
+  float: left;
+  vertical-align: top;
+  margin: .3em 20px 0 0;
+  padding: .2em;
+  height: auto;
+  font: 15px/21px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+@media screen and (max-width: 640px) {
+  ul.work-list li {
+    margin: 0 0 20px;
+    width: 100%;
+  }
+}
+ul.work-list li:hover {
+  background-color: #fff;
+}
+
 nav {
   float: right;
   margin-top: 23px;
@@ -438,11 +470,23 @@ nav {
   }
 }
 nav a {
-  margin-left: 20px;
+  margin-left: 10px;
   color: #777;
   width: 175px;
   display: block;
   float: right;
+  border-bottom: none;
+  padding-left: 10px;
+}
+nav a:hover {
+  transition: all .1s ease;
+  background-color: #555;
+  color: #fff;
+}
+nav a:active {
+  transition: all .1s ease;
+  background-color: #fff;
+  color: #c30;
 }
 @media screen and (max-width: 640px) {
   nav a {

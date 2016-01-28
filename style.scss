@@ -133,11 +133,11 @@ h1 {
 }
 
 // Do we actually want differentiation for the blog post?
-#home .blog-post {
+.grid-display .blog-post {
   // background-color: $xlightGray;
 }
 
-#home .post {
+.grid-display .post {
   width: 220px;
   float: left;
   vertical-align: top;
@@ -151,7 +151,7 @@ h1 {
   }
 }
 
-#home .post h1 {
+.grid-display .post h1 {
   font-size: 24px;
   line-height: 1.2;
   min-height: 60px;
@@ -161,7 +161,7 @@ h1 {
   color: $red;
 }
 
-#home h1.site-name {
+.grid-display h1.site-name {
   font-size: 72px;
   line-height: 74px;
   font-weight: 700;
@@ -197,7 +197,7 @@ p {
   margin: 15px 0;
 }
 
-#home p.site-description {
+.grid-display p.site-description {
   font-size: 30px;
   font-weight: 300;
   line-height: 40px;
@@ -208,7 +208,7 @@ p {
   }
 }
 
-#home .entry p {
+.grid-display .entry p {
   color: $gray;
 }
 
@@ -216,6 +216,8 @@ a {
   color: $red;
   text-decoration: none;
   cursor: pointer;
+  border-bottom: 2px dotted $lightGray;
+  padding-bottom: 2px;
   &:hover, &:active {
     color: $darkRed;
   }
@@ -323,6 +325,7 @@ img {
   height: 50px;
   margin-right: 15px;
   margin-bottom: 15px;
+  border: none;
   @include mobile {
     float: none;
     display: block;
@@ -371,10 +374,32 @@ img {
 
 ul.work-list {
   list-style: none;
+  @extend .grid-display;
+  @extend .clearfix;
+  padding-left: 0px;
+  margin-left: 0px;
+
+  strong {
+    font-size: 13px;
+    color: $gray;
+  }
+
   li {
-    .inline;
-    .small-link;
-    .post;
+      width: 30%;
+      float: left;
+      vertical-align: top;
+      margin: .3em 20px 0 0;
+      padding: .2em;
+      height: auto;
+      @include mobile {
+        margin: 0 0 20px;
+        width: 100%;
+      }
+    @extend .inline;
+    font: 15px/21px $helveticaNeue;
+    &:hover {
+      background-color: $white;
+    }
   }
 } 
 
@@ -391,13 +416,25 @@ nav {
   }
 
   a {
-    // transition: all .1s ease;
-    margin-left: 20px;
+    margin-left: 10px;
     color: $gray;
     width: 175px;
     display: block;
     float: right;
+    border-bottom: none;
+    padding-left: 10px;
 
+    &:hover {
+      transition: all .1s ease;
+      background-color: $darkGray;
+      color: $white;
+    }
+
+    &:active {
+      transition: all .1s ease;
+      background-color: $white;
+      color: $darkRed;
+    }
     @include mobile {
       // transition: all .3s ease;
       display: inline-block;

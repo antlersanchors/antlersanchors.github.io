@@ -7,7 +7,7 @@ permalink: /michael/
 ## Michael-Owen Liston || Interaction and Service Designer
 
 ### Design, Collaborate, and Listen
-I’m passionate about the intersection of human needs, technology, and design. I currently work as an interaction and service design consultant, alongside independent project work. I am based at present in Toronto, Canada, but am available to travel or relocate worldwide. My previous clients and partners include the **New York Public Library**, and **SickKids Hospital** in Toronto. I have experience working in Agile product environments, and leading small project teams. I am a graduate of the [Copenhagen Institute of Interaction Design](http://ciid.dk) class of 2015. 
+I’m passionate about the intersection of human needs, technology, and design. I currently work as an interaction and service design consultant, alongside independent project work. I am based at present in Toronto, Canada, but am available to travel or relocate worldwide. My previous clients and partners include the **New York Public Library**, and **SickKids Hospital** in Toronto. I have experience working in Agile product environments, leading small project teams, and teaching workshops. I am a graduate of the [Copenhagen Institute of Interaction Design](http://ciid.dk) IDP class of 2015. 
 
 As a creative and critical generalist, I love wrangling with the full spectrum of the designer’s toolkit, from strategic people-craft, to the not-so-fuzzy front end of the web, but I believe that **deep listening, synthesis, and storytelling** form the pillars of my practice. I’ve begun to explore the potential of video as a powerful tool for both prototyping and documentation throughout my process, and I’m excited to develop that skill-set further.
 
