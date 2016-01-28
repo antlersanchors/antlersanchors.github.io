@@ -494,8 +494,13 @@ article {
   }
   .large-link {
     font-size: 20px;
-    color: $darkGray;
+    color: $red;
     font-weight: 500;
+    display: block;
+    margin-top: 20px;
+      &:hover {
+        color: $darkRed;
+      }
   }
   .primary-link {
     color: #000;
