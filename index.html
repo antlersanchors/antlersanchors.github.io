@@ -2,14 +2,16 @@
 layout: home
 ---
 
-<ul class="logo-container">
+<div class="partners-section">
   <h5>Some partners I’ve worked with:</h5>
-  <li><img src="{{ site.baseurl }}/images/logos/philips_logo.png"></li>
-  <li><img src="{{ site.baseurl }}/images/logos/NYPL_logo.png"></li>
-  <li><img src="{{ site.baseurl }}/images/logos/littleBits_logo.png"</li>
-  <li><img src="{{ site.baseurl }}/images/logos/sickkids_logo.png"</li>
-  <li><img src="{{ site.baseurl }}/images/logos/kommune_logo.png"></li>
-</ul>
+  <ul class="logo-container">
+    <li><img src="{{ site.baseurl }}/images/logos/philips_logo.png"></li>
+    <li><img src="{{ site.baseurl }}/images/logos/NYPL_logo.png"></li>
+    <li><img src="{{ site.baseurl }}/images/logos/littleBits_logo.png"></li>
+    <li><img src="{{ site.baseurl }}/images/logos/sickkids_logo.png"></li>
+    <li><img src="{{ site.baseurl }}/images/logos/kommune_logo.png"></li>
+  </ul>
+</div>
 
 <div class="posts clearfix grid-display">
   {% for post in site.posts limit:1 %}
