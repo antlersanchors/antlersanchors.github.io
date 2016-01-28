@@ -223,6 +223,9 @@ a {
   &:hover, &:active {
     color: $darkRed;
   }
+  &.no-border {
+    border: none;
+  }
 }
 
 .grid-display .post {

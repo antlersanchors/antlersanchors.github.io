@@ -20,9 +20,9 @@ Reach me by email at [{{ site.current_email_address }}](mailto:%22Michael-Owen%2
 I am happy to get texts or calls at {{ site.current_phone_number }}, however please be aware I’m traveling a lot at the moment and that number may or may not be active.
 
 #### You should Connect, Follow, and Fork me here:
-{% if site.footer-links.linkedin %}<a href="http://linkedin.com/in/{{ site.footer-links.linkedin }}">{% include svg-icons/linkedin.html %}</a>{% endif %}
-{% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}">{% include svg-icons/twitter.html %}</a>{% endif %}
-{% if site.footer-links.github %}<a href="http://github.com/{{ site.footer-links.github }}">{% include svg-icons/github.html %}</a>{% endif %}
+{% if site.footer-links.linkedin %}<a href="http://linkedin.com/in/{{ site.footer-links.linkedin }}" class="no-border">{% include svg-icons/linkedin.html %}</a>{% endif %}
+{% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}" class="no-border">{% include svg-icons/twitter.html %}</a>{% endif %}
+{% if site.footer-links.github %}<a href="http://github.com/{{ site.footer-links.github }}" class="no-border">{% include svg-icons/github.html %}</a>{% endif %}
 
 ### Other Work and Community Projects
 My current personal projects include **TikilluaritSMS**, a service I co-developed with Copenhagen’s Greenlandic Inuit community. It’s an SMS chatbot service that makes support and resources more accessible through conversational, natural language. I am honoured that my IxDA 2016 Student Design Challenge submission [“SMS Chatbots for Civic Engagement”](https://vimeo.com/150151588), which was based largely off of this work, was selected as a finalist entry.
