@@ -36,7 +36,7 @@ Prior to entering the design field, I toured and recorded as a freelance **doubl
 
 I’ve also worked at various frontline **mental health and [harm reduction](https://en.wikipedia.org/wiki/Harm_reduction)** projects in both Vancouver and Toronto, including [InSite, North America’s first supervised injection site](https://en.wikipedia.org/wiki/Insite).
 
-#### Designing Critically, Thinking Critically
+### Colophon: Designing Critically, Thinking Critically
 I built the current site you’re looking at as a minimalistic static site, using [Jekyll](http://jekyllrb.com/). I’d used WordPress in the past, but I wanted to challenge myself [to avoid unnecessary bulk](http://idlewords.com/talks/website_obesity.htm) as a healthy part of streamlining both my design process and the final site itself. My motivation is about more than efficiency for its own sake, however; a dynamic WordPress site consumes more energy every time it’s compiled, whether crunching databases on the server side or dumping heaps of scripts onto the client’s browser, and I wanted to push myself to engage with the conspicuously neglected [resource-consumption realities of the web](http://alistapart.com/article/sustainable-web-design). It’s an undeniably small-scale intervention, if you can call it that, but if you’ve read this far, it’s been worth it!
 
 ![Service Design Sketching]( {{ site.baseurl }} /images/candidates/service_design_sketching.gif)
