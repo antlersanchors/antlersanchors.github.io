@@ -7,7 +7,7 @@ permalink: /michael/
 ## Michael-Owen Liston || Interaction and Service Designer
 
 ### Design, Collaborate, and Listen
-I’m passionate about the intersection of human needs, technology, and design. I currently work as an interaction and service design consultant, alongside independent project work. I am based at present in Toronto, Canada, but am available to travel or relocate worldwide. My previous clients and partners include the **New York Public Library**, and **SickKids Hospital** in Toronto.
+I’m passionate about the intersection of human needs, technology, and design. I currently work as an interaction and service design consultant, alongside independent project work. I am based at present in Toronto, Canada, but am available to travel or relocate worldwide. My previous clients and partners include the **New York Public Library**, and **SickKids Hospital** in Toronto. I have experience working in Agile product environments, and leading small project teams. I am a graduate of the [Copenhagen Institute of Interaction Design](http://ciid.dk) class of 2015. 
 
 As a creative and critical generalist, I love wrangling with the full spectrum of the designer’s toolkit, from strategic people-craft, to the not-so-fuzzy front end of the web, but I believe that **deep listening, synthesis, and storytelling** form the pillars of my practice. I’ve begun to explore the potential of video as a powerful tool for both prototyping and documentation throughout my process, and I’m excited to develop that skill-set further.
 
@@ -31,7 +31,10 @@ I’m developing a series of workshops for designers and others who would like t
 
 I co-founded [Service Design Toronto](http://www.eventbrite.ca/o/service-design-toronto-3326592276) with Linn Vizard in 2012. Together we hosted regular meetups and workshops, bringing together people from across a range of disciplines and backgrounds who were interested in furthering discussion and developing the city’s emergent practice of service design.
 
-Prior to entering the design field, I toured and recorded as a freelance **double bassist** for over a decade. I also worked at frontline **mental health and harm reduction** projects in both Vancouver and Toronto, including InSite, North America’s first supervised injection site. I am a graduate of the [Copenhagen Institute of Interaction Design](http://ciid.dk) class of 2015.
+### Background and B-Sides
+Prior to entering the design field, I toured and recorded as a freelance **double bassist** for over a decade. Sometimes I play clawhammer banjo, but I swear there’s an explanation. I also think minimal and melodic tech-house is pretty great, and I’m a big sucker for all the viola da gambas, lutes, and madrigals of the 16th-17th Centuries.
+
+I’ve also worked at various frontline **mental health and [harm reduction](https://en.wikipedia.org/wiki/Harm_reduction)** projects in both Vancouver and Toronto, including [InSite, North America’s first supervised injection site](https://en.wikipedia.org/wiki/Insite).
 
 #### Designing Critically, Thinking Critically
 I built the current site you’re looking at as a minimalistic static site, using [Jekyll](http://jekyllrb.com/). I’d used WordPress in the past, but I wanted to challenge myself [to avoid unnecessary bulk](http://idlewords.com/talks/website_obesity.htm) as a healthy part of streamlining both my design process and the final site itself. My motivation is about more than efficiency for its own sake, however; a dynamic WordPress site consumes more energy every time it’s compiled, whether crunching databases on the server side or dumping heaps of scripts onto the client’s browser, and I wanted to push myself to engage with the conspicuously neglected [resource-consumption realities of the web](http://alistapart.com/article/sustainable-web-design). It’s an undeniably small-scale intervention, if you can call it that, but if you’ve read this far, it’s been worth it!

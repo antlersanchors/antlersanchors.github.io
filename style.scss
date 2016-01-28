@@ -369,6 +369,15 @@ img {
   }
 }
 
+ul.work-list {
+  list-style: none;
+  li {
+    .inline;
+    .small-link;
+    .post;
+  }
+} 
+
 nav {
   float: right;
   margin-top: 23px;
