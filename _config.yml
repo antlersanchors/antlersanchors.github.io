@@ -25,12 +25,12 @@ collections:
 # Adding phone number and email variables
 # so I don’t forget to change it
 current_phone_number: +1-647-574-3325
-current_email_address: michaelowen.liston [at] gmail.com
+current_email_address: michaelowen.liston@gmail.com
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: michael@antlersandanchors.ca
+  email: michaelowen.liston@gmail.com
   facebook: 
   flickr: 
   github: antlersanchors
