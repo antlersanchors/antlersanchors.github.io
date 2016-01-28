@@ -85,6 +85,7 @@ h1 {
   margin: 40px 0;
   a {
     color: $red;
+    border: none;
     &:hover {
       color: $darkRed;
     }
@@ -161,7 +162,7 @@ h1 {
   color: $red;
 }
 
-.grid-display h1.site-name {
+ h1.site-name {
   font-size: 72px;
   line-height: 74px;
   font-weight: 700;
@@ -171,6 +172,7 @@ h1 {
   letter-spacing: -.03em;
   a {
     color: $gray;
+    border: none;
   }
   @include mobile {
     margin: 30px 20px 0;
@@ -197,7 +199,7 @@ p {
   margin: 15px 0;
 }
 
-.grid-display p.site-description {
+ p.site-description {
   font-size: 30px;
   font-weight: 300;
   line-height: 40px;

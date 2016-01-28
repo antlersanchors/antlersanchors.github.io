@@ -145,6 +145,7 @@ h1 {
 }
 h1 a {
   color: #d42;
+  border: none;
 }
 h1 a:hover {
   color: #c30;
@@ -209,7 +210,7 @@ h1 a:hover {
   color: #d42;
 }
 
-.grid-display h1.site-name, ul.work-list h1.site-name {
+h1.site-name {
   font-size: 72px;
   line-height: 74px;
   font-weight: 700;
@@ -218,11 +219,12 @@ h1 a:hover {
   margin-bottom: 20px;
   letter-spacing: -.03em;
 }
-.grid-display h1.site-name a, ul.work-list h1.site-name a {
+h1.site-name a {
   color: #777;
+  border: none;
 }
 @media screen and (max-width: 640px) {
-  .grid-display h1.site-name, ul.work-list h1.site-name {
+  h1.site-name {
     margin: 30px 20px 0;
   }
 }
@@ -247,7 +249,7 @@ p {
   margin: 15px 0;
 }
 
-.grid-display p.site-description, ul.work-list p.site-description {
+p.site-description {
   font-size: 30px;
   font-weight: 300;
   line-height: 40px;
@@ -255,7 +257,7 @@ p {
   margin-bottom: 40px;
 }
 @media screen and (max-width: 640px) {
-  .grid-display p.site-description, ul.work-list p.site-description {
+  p.site-description {
     margin: 30px 20px 60px 20px;
   }
 }
