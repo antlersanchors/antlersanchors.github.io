@@ -29,7 +29,7 @@ My current personal projects include **TikilluaritSMS**, a service I co-develope
 
 I’m developing a series of workshops for designers and others who would like to make use of **video storytelling techniques** in their practice, which I hope to launch in the spring of 2016. Get in touch if you’re interested in learning more, or have ideas of your own! 
 
-Together with the mighty [Linn Vizard](http://linnvizard.com/)I co-founded [Service Design Toronto](http://www.eventbrite.ca/o/service-design-toronto-3326592276) in 2012. We hosted regular meetups and workshops, bringing together people from across a range of disciplines and backgrounds who were interested in furthering discussion around and developing the city’s emergent practice of service design.
+Together with the mighty [Linn Vizard](http://linnvizard.com/) I co-founded [Service Design Toronto](http://www.eventbrite.ca/o/service-design-toronto-3326592276) in 2012. We hosted regular meetups and workshops, bringing together people from across a range of disciplines and backgrounds who were interested in furthering discussion around and developing the city’s emergent practice of service design.
 
 ### Background and B-Sides
 Prior to entering the design field, I toured and recorded as a freelance **double bassist** for over a decade. Sometimes I play clawhammer banjo, but I swear there’s an explanation. I think minimal and melodic tech-house is pretty fantastic, and I fall hard for the viola da gambas, lutes, and madrigals of the 16th-17th Centuries, every single time.
