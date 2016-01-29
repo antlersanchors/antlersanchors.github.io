@@ -6,11 +6,16 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-object
 proj-num: 04
 heroic: /images/strategic_redesign/dashboard_UI_crop.jpg
 tags: Product Design, Strategy, Research
+team_members:
+- name: Adie
+  role: Visual and UX Designer
+- name: Michael
+  role: Strategy Lead and UX Designer 
+skills:
+date:
+context: 
 ---
 
-#### Team
-* Adie Margineanu — Visual and User Experience Design
-* Michael-Owen Liston — Strategy and User Experience Design
 
 #### Skills Used
 Contextual Inquiry, People Centered Research, Participatory Co-Design, Service Design, User Interface Design
