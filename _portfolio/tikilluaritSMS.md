@@ -6,6 +6,12 @@ proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 01
 heroic: /images/tikilluarit/ivalo_laugh_with_logo.jpg
 tags: Service Design, Prototyping, Research
+team_members:
+- name: Michael-Owen Liston
+  role: Designer </br>(in collaboration with the Greenlandic community and cultural organizations in Copenhagen. Special thanks to my project advisor Francesca Desmarais.)
+skills: People Centered Research, Experience Prototyping, Prototyping, Service Design
+date: October-December 2015
+context: <a href="http://ciid.dk/education/portfolio/idp15/courses/final-projects/tikilluaritsms/">My final project at CIID.</a>  
 ---
 
 TikilluaritSMS (“Tikilluarit” means welcome in Greenlandic) is an SMS chatbot-based service that supports Greenlanders who have recently moved to Denmark. It connects them with resources — both formal, governmental services, as well as knowledge, experience, and people within the community.
@@ -34,16 +40,4 @@ I learned some new prototyping tricks, but I think my biggest learnings were aro
 > [Here’s my submission video.](https://vimeo.com/150151588)
 
 <iframe src="https://player.vimeo.com/video/151962428?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-##### Team
-Michael-Owen Liston, in collaboration with the Greenlandic community and cultural organizations in Copenhagen. Special thanks to my project advisor Francesca Desmarais. 
-
-##### Skills Used
-People Centered Research, Experience Prototyping, Prototyping, Service Design
-
-##### Date
-October-December 2015
-
-##### Context
-[My final project at CIID](http://ciid.dk/education/portfolio/idp15/courses/final-projects/tikilluaritsms/ ‎)
 

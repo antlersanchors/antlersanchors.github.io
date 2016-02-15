@@ -6,29 +6,25 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-servi
 proj-num: 02
 heroic: /images/candidates/city_window_live.jpg
 tags: Service Design, Video Prototyping, UI
+team_members:
+- name: Michael-Owen Liston
+  role: Designer
+- name: Victoria Hammel
+  role: Designer
+- name: Riccardo Cereser
+  role: Designer
+- name: Alejandra Molina
+  role: Designer
+skills: Experience Prototyping, Video Prototyping, Interface Design, Service Design
+date: June 2015
+context: <a href="http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/">Emotive Digital Services course at CIID</a>  
 ---
 
-
 City Window is a live-streaming service that allows tourists to experience a short “micro tour”, guided remotely by a local from the place they are visiting.
-
-### What I Learned
-I learned a lot about how video prototypes could be used as internal communication tools, as well as part of experience prototyping with people on the street.
 
 > City Window was shortlisted for the 2016 Interaction Awards, in the Connecting category!
 >
 > [Watch Alejandra talk about our project and prototyping process here.](http://awards.ixda.org/entry/2016/city-window/)
-
-##### Team
-Alejandra Molina, Victoria Hammel, Riccardo Cereser, Michael-Owen Liston
-
-##### Skills Used
-Experience Prototyping, Video Prototyping, Interface Design, Service Design
-
-##### Date
-June 2015
-
-##### Context
-[Emotive Digital Services course at CIID](http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/)
 
 <iframe src="https://player.vimeo.com/video/138462032?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -42,5 +38,8 @@ Visitors share their exact locations on a shared map and, through the camera of 
 
 At the end of the tour, a tourist can thank a guide for the service provided with a voucher for drinks or food through local business partners. City Window could retain a small percentage of such transactions to sustain its operational costs.
 
-City Window was created as part of the Emotive Digital Service course. Our brief was to create a service for live events. We initially explored concepts in the healthcare space – to reduce isolation caused by hospitalization, illness, etc. Our early ideation on concepts of telepresence led us to think about other novel contexts for creating impromptu connections, and we decided to focus on the serendipitous intersection of people, places, and interests. We conducted a series of live prototypes of the City Window concept with tourists in the streets of Copenhagen – using Google Hangouts to simulate the core experience of lending your eyes to a remote guide, and we received very encouraging early feedback. As a team we greatly enjoyed the opportunity to experiment and evolve new ways of both prototyping and communicating our concepts as part of this project.
+City Window was created as part of the Emotive Digital Service course. Our brief was to create a service for live events. We initially explored concepts in the healthcare space – to reduce isolation caused by hospitalization, illness, etc. Our early ideation on concepts of telepresence led us to think about other novel contexts for creating impromptu connections, and we decided to focus on the serendipitous intersection of people, places, and interests. We conducted a series of live prototypes of the City Window concept with tourists in the streets of Copenhagen – using Google Hangouts to simulate the core experience of lending your eyes to a remote guide, and we received very encouraging early feedback.
+
+### What I Learned
+I learned a lot about how video prototypes could be used as internal communication tools, as well as part of experience prototyping with people on the street. I am proud of how hard we worked to build our own tools on the fly to allow us to test our concepts with people on the street.
 

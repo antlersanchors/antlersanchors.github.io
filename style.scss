@@ -50,7 +50,7 @@ html {
 body {
   background: $white;
   font: 23px/33px $georgia;
-  color: $gray;
+  color: $darkGray;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -406,7 +406,46 @@ ul.work-list {
       background-color: $white;
     }
   }
-} 
+}
+
+/******************/
+/* PORTFOLIO PAGE */
+/******************/
+
+#portfolio-boilerplate {
+  margin: 0 30px 20px 0px;
+  // background-color: $darkGray;
+  @extend .clearfix;
+
+  .boilerplate-block {
+    font: 15px/21px $helveticaNeue;
+    color: $gray;
+    // color: $white;
+    // float: left;
+    width: 50%;
+    margin: 0 0 10px 0;
+    padding-right: 10px;
+
+    @include mobile {
+      width: 100%;
+    }
+
+    h6 {
+      font-size: 18px;
+      font-weight: 700;
+      color: $gray;
+      // color: $xlightGray;
+    }
+  }
+}
+
+.right-col {
+  float: right;
+}
+
+.left-col {
+  float: left;
+}
 
 nav {
   float: right;

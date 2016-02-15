@@ -6,25 +6,20 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-object
 proj-num: 04
 heroic: /images/strategic_redesign/dashboard_UI_crop.jpg
 tags: Product Design, Strategy, Research
+team_members:
+- name: Adie Margineanu
+  role: Visual and UX Designer
+- name: Michael-Owen Liston
+  role: Strategy Lead and UX Designer 
+skills: Contextual Inquiry, People Centered Research, Participatory Co-Design, Service Design, User Interface Design
+date: Fall 2014
+context: Strategic Design and UX consulting at Usability Matters, for a company in the financial CRM sector
 ---
 
-#### Team
-* Adie Margineanu — Visual and User Experience Design
-* Michael-Owen Liston — Strategy and User Experience Design
-
-#### Skills Used
-Contextual Inquiry, People Centered Research, Participatory Co-Design, Service Design, User Interface Design
-
-#### Date
-Fall 2014
-
-#### Context
-Strategic Design and UX consulting at Usability Matters, for a company in the financial CRM sector
-
-## Portals and Culture
+## Overview: Portals and Culture
 While at Usability Matters I led the redesign project for the keystone digital product of a provider of Customer Experience Management services in the financial sector. The research and design phases involved extensive interviews with internal stakeholders, contextual inquiry sessions with external end-user clients, as well as regular participatory workshops. As the company was looking at the prospect of a significant shift of internal resources, our work was as much about helping them to document, understand, and socialize their own internal systems and culture, as well as those of their clients, as it was about designing portal dashboards and push notification frameworks.
 
-## Breaking Down Silos
+## Process: Breaking Down Silos
 Our client had teams in both Toronto and New Jersey, as well as an internal culture that did not encourage communication and collaboration between different business units. We established a working group of members from different parts of the organization to bring different perspectives to the table, as part of participatory design workshops we facilitated throughout the project. Some of the workshop sessions involved remote participants, which forced us to experiment with some new techniques for inclusion! It was a sometimes challenging, but ultimately rewarding experience for the working group members to be exposed to views from outside their sphere of expertise and direct influence.
 
 Their engagement in the process also allowed us to present our strategic and tactical outputs to the company’s directorship as the product of significant internal work, rather than an externally driven vision.
