@@ -421,9 +421,10 @@ ul.work-list {
     font: 15px/21px $helveticaNeue;
     color: $gray;
     // color: $white;
-    float: right;
+    // float: left;
     width: 50%;
     margin: 0 0 10px 0;
+    padding-right: 10px;
 
     @include mobile {
       width: 100%;
@@ -436,6 +437,14 @@ ul.work-list {
       // color: $xlightGray;
     }
   }
+}
+
+.right-col {
+  float: right;
+}
+
+.left-col {
+  float: left;
 }
 
 nav {

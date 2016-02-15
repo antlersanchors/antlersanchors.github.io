@@ -7,9 +7,9 @@ proj-num: 04
 heroic: /images/strategic_redesign/dashboard_UI_crop.jpg
 tags: Product Design, Strategy, Research
 team_members:
-- name: Adie
+- name: Adie Margineanu
   role: Visual and UX Designer
-- name: Michael
+- name: Michael-Owen Liston
   role: Strategy Lead and UX Designer 
 skills: Contextual Inquiry, People Centered Research, Participatory Co-Design, Service Design, User Interface Design
 date: Fall 2014
