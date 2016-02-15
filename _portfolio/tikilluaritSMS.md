@@ -8,8 +8,7 @@ heroic: /images/tikilluarit/ivalo_laugh_with_logo.jpg
 tags: Service Design, Prototyping, Research
 team_members:
 - name: Michael-Owen Liston
-  role: Designer
-- name: (in collaboration with the Greenlandic community and cultural organizations in Copenhagen. Special thanks to my project advisor Francesca Desmarais.)
+  role: Designer </br>(in collaboration with the Greenlandic community and cultural organizations in Copenhagen. Special thanks to my project advisor Francesca Desmarais.)
 skills: People Centered Research, Experience Prototyping, Prototyping, Service Design
 date: October-December 2015
 context: <a href="http://ciid.dk/education/portfolio/idp15/courses/final-projects/tikilluaritsms/">My final project at CIID.</a>  
