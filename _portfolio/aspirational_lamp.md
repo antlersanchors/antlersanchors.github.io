@@ -6,6 +6,16 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-object
 proj-num: 03
 heroic: /images/candidates/aspirational_lamp_interior.jpg
 tags: Physical Computing, Critical Design
+team_members:
+- name: Michael-Owen Liston
+  role: Designer
+- name: Feild Craddock
+  role: Designer
+- name: Akshay Verma
+  role: Designer
+skills: Rapid Prototyping, Physical Computing, Physical Fabrication, Data Visualization
+date: May 2015
+context: <a href="http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/">Secret Life of Objects Course at CIID</a>  
 ---
 
 ### Smart Machines in the Time of Planned Obsolescence
@@ -13,7 +23,7 @@ tags: Physical Computing, Critical Design
 What if your lamp had a part time job as a producer of solar energy, could invest on the stock market with other networked appliances, and had the wherewithal to use the profits to order it’s own replacement parts and upgrades? The Aspirational Lamp is a speculative exploration of a future in which even mundane household objects have access to powerful distributed computing infrastructure and sensor networks, and goals that may not always necessarily align with the short term needs of the people using them.
 
 ### What I Learned
-They also serve, who go shopping to find sealed bearings for the drive shaft.
+They also serve, who spend an afternoon shopping to find sealed bearings for the drive shaft.
 
 > Read things that people wrote about our lamp:
 >
@@ -21,18 +31,6 @@ They also serve, who go shopping to find sealed bearings for the drive shaft.
 > * PSFK.com: [“Bright” Lamp Understands Stock Market](http://www.psfk.com/2015/06/invest-in-stock-market-stocks-aspirational-lamp-copenhagen-institute-of-interaction-design.html)
 > * Wired (Italian site): [Aspirational Lamp, la lampada da scrivania che può guadagnare più di te](http://www.wired.it/tv/aspirational-lamp-lampada-scrivania-puo-guadagnare/)
 > * Vice Creators Project (Dutch site): [Wat als je lamp automatisch geld zou verdienen als je zelf weg bent?](http://thecreatorsproject.vice.com/nl/blog/deze-lamp-investeert-zonne-energie-in-de-aandelenmarkt-om-geld-voor-je-te-verdienen)
-
-#### Team
-Feild Craddock, Akshay Verma, Michael-Owen Liston
-
-#### Skills Used
-Rapid Prototyping, Physical Computing, Physical Fabrication, Data Visualization
-
-#### Date
-May 2015
-
-#### Context
-[Secret Life of Objects course at CIID](http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/)
 
 <iframe src="https://player.vimeo.com/video/130375657?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

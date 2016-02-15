@@ -6,6 +6,14 @@ proj-url: http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-object
 proj-num: 05
 heroic: /images/bibliocommons/flow_maps.jpg
 tags: Product Design, Agile, UI
+team_members:
+- name: Michael-Owen Liston
+  role: UX and Interaction Design
+- name: BiblioCommons BiblioDigital Team
+  role: Front and Backend Developers, Project Managers
+skills: UI Prototyping, CSS and jQuery, Style Guide Development, Visual Design, Requirements Gathering
+date: 2013
+context: Various product design projects in a SaaS company serving public libraries, working on a small, Agile development team.
 ---
 
 At BiblioCommons, I worked as a lead UX designer, embedded in an Agile product development team, providing a range of SaaS solutions for public libraries around the world. At the time, the entire design team was about 4 people within a 50-plus sized company of engineers and support staff. I also “freelanced” for other teams, as needed.
