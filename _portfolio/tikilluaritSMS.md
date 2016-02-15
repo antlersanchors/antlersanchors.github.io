@@ -10,7 +10,7 @@ team_members:
 - name: Michael-Owen Liston
   role: Designer </br>(in collaboration with the Greenlandic community and cultural organizations in Copenhagen. Special thanks to my project advisor Francesca Desmarais.)
 skills: People Centered Research, Experience Prototyping, Prototyping, Service Design
-date: October-December 2015
+project-date: October-December 2015
 context: <a href="http://ciid.dk/education/portfolio/idp15/courses/final-projects/tikilluaritsms/">My final project at CIID.</a>  
 ---
 

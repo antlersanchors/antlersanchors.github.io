@@ -16,7 +16,7 @@ team_members:
 - name: Alejandra Molina
   role: Designer
 skills: Experience Prototyping, Video Prototyping, Interface Design, Service Design
-date: June 2015
+project-date: June 2015
 context: <a href="http://ciid.dk/education/portfolio/idp15/courses/emotive-digital-services/projects/city-window/">Emotive Digital Services course at CIID</a>  
 ---
 

@@ -12,7 +12,7 @@ team_members:
 - name: Michael-Owen Liston
   role: Strategy Lead and UX Designer 
 skills: Contextual Inquiry, People Centered Research, Participatory Co-Design, Service Design, User Interface Design
-date: Fall 2014
+project-date: Fall 2014
 context: Strategic Design and UX consulting at Usability Matters, for a company in the financial CRM sector
 ---
 

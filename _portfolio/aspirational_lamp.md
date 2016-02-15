@@ -14,7 +14,7 @@ team_members:
 - name: Akshay Verma
   role: Designer
 skills: Rapid Prototyping, Physical Computing, Physical Fabrication, Data Visualization
-date: May 2015
+project-date: May 2015
 context: <a href="http://ciid.dk/education/portfolio/idp15/courses/secret-life-of-objects/projects/the-aspirational-lamp/">Secret Life of Objects Course at CIID</a>  
 ---
 

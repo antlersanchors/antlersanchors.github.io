@@ -12,7 +12,7 @@ team_members:
 - name: BiblioCommons BiblioDigital Team
   role: Front and Backend Developers, Project Managers
 skills: UI Prototyping, CSS and jQuery, Style Guide Development, Visual Design, Requirements Gathering
-date: 2013
+project-date: 2013
 context: Various product design projects in a SaaS company serving public libraries, working on a small, Agile development team.
 ---
 

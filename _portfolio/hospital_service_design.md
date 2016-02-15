@@ -14,7 +14,7 @@ team_members:
 - name: Lindsay Ellerby
   role: Design Director
 skills: Contextual Inquiry, People Centered Research, Participatory Co-Design, Service Design, User Interface Design
-date: Spring 2012
+project-date: Spring 2012
 context: Design research phase of an internal intranet system redesign, for an internationally recognized childrens’ hospital in Toronto.
 ---
 
