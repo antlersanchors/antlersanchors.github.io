@@ -33,12 +33,3 @@ I was able to utilize and explore a range of prototyping techniques at BiblioCom
 I had the opportunity to utilize and develop different prototyping techniques, and in addition to technical skills, I learned a potentially more valuable lesson in the necessity of remaining accountable to your team in making decisions about prototyping techniques. I grew not only by challenging myself to learn new frameworks and libraries, but also by challenging myself to be pragmatic and more efficient.
 
 As part of a relatively nascent design practice I also learned many invaluable lessons about becoming a better advocate for ideas and building internal capacity. I was proud to be a part of contributing to a better culture of knowledge sharing within the company, and I initiated several internal projects, including a live style guide and a workshop on prototyping in code for the design team.
-
-##### Context
-Lead UX Designer within Agile product development teams at BiblioCommons
-
-##### Skills Used
-Sketching, Rapid Prototyping, UI Design, Agile workflows
-
-##### Date
-2013

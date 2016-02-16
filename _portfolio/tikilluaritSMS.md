@@ -40,4 +40,3 @@ I learned some new prototyping tricks, but I think my biggest learnings were aro
 > [Here’s my submission video.](https://vimeo.com/150151588)
 
 <iframe src="https://player.vimeo.com/video/151962428?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
