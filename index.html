@@ -13,6 +13,7 @@ layout: home
   </ul>
 </div>
 
+<h5>Selected Words and Work:</h5>
 <div class="posts clearfix grid-display">
   {% for post in site.posts limit:1 %}
     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -21,8 +22,9 @@ layout: home
         <h1>{{ post.title }}</h1>
 
         <div class="entry">
-          <p>{{ post.desc }}</p>
-          {{ post.content | truncatewords:40}}
+          <p>{{ post.desc }}
+            {{ post.content | strip_html | truncatewords:30 }}
+          </p>
     </div>
         
       </article>

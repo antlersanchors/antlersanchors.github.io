@@ -210,9 +210,6 @@ p {
   }
 }
 
-.grid-display .entry p {
-  color: $gray;
-}
 
 a {
   color: $red;
@@ -227,6 +224,11 @@ a {
     border: none;
   }
 }
+
+// .grid-display .entry p {
+//   color: $gray;
+//   font: 23px/33px $georgia;
+// }
 
 .grid-display .post {
   transition: background-color 0.3s ease;
@@ -283,8 +285,17 @@ img {
   color: $gray;
 }
 
-.grid-display p {
+.grid-display .entry p {
   font: 18px/26px $helveticaNeue;
+  color: $gray;
+
+  a {
+    color: $gray;
+  }
+}
+
+.posts .entry p {
+  color: $gray;
 }
 
 // Specify the color of the selection
