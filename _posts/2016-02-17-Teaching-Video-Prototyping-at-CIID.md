@@ -25,12 +25,12 @@ So the act of prototyping is very much married to this idea of being in control,
 ### Probes and Intentionally Unintended Consequences 
 A prototype is a kind of probe. And as anyone who’s watched any sci-fi can tell you, you never know what sorts of surprises will hitch a ride with a deep space probe on its return journey. And that gets to the heart of Bill Buxton’s quote — As designers, we need to get out/in there and *experience* the reality of the thing we are proposing introducing to the world, because our ability to predict and forecast what will actually happen is remarkably limited and overinflated. 
 
-<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/gxAaVqdz_Vk” frameborder=“0” allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxAaVqdz_Vk" frameborder="0" allowfullscreen></iframe>
 *^^^ spoiler alert!*
 
 And since the prospect of testing things in 1:1 reality is most likely unfeasible, we need to exercise the dark arts of *performing* reality and experiencing slices of it. This is where the experience/video prototype comes in. I think all video prototypes are a form of experience prototype, but of course experience prototypes can be varied in medium and format — [Bodystorming](https://en.wikipedia.org/wiki/Bodystorming) being an analog example. Perhaps the most obvious selling point of video is that it gives anyone with an internet connection a historically unparalleled reach for dissemination of sensorially dense little idea-nuggets and thought-bombs. [Adam](http://www.localhiddenvariable.com/) opined during the course that [Superflux’s “Sketch-a-Move” video](http://superflux.in/work/sketch-move) is perhaps the most celebrated video prototype ever amongst interaction designers — and as quite the fan myself, I brooked no objection.
 
-<iframe src=“https://player.vimeo.com/video/5125096” width=“500” height=“375” frameborder=“0” webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/5125096" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 But what is perhaps less obvious about a video prototype is that it gives the people involved in its creation — the designers — an opportunity for immersion into at least some components of the “social and physical context” Buxton refers to. In this there is a certain surrender to the blind gods and goddesses of chance and emergent behaviours — You can ideate and sketch and hack things together in the lab as long as you want, but ultimately it’s not *designing* until you let it out into the world to breathe and start caroming off of unexpected unseen surfaces. You want it to surprise you, you *need* it to surprise you and to break and to be able to learn from how it breaks — or what else it breaks. And then you iterate.
 
