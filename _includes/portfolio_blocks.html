@@ -3,7 +3,11 @@
     <a href="{{ site.baseurl }}{{ portfolio.url }}">
       <article class="post grid-display">    
         <!-- <div class="eyebrow">{{ post.date | date: "%d %b %Y" }}</div> -->
-        <div class="eyebrow">{{ portfolio.tags }}</div>
+        <div class="eyebrow">
+        {% for tag in portfolio.tags %}
+          {{ tag }}
+        {% endfor %}
+        </div>
         <h1>{{ portfolio.title }}</h1>
 
         <div class="entry">
