@@ -68,7 +68,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $Americane;
   color: $darkGray;
   font-weight: 700;
   line-height: 1.25;
@@ -272,7 +272,7 @@ blockquote {
   margin: 1.8em .8em;
   padding: 0.1em 1em;
   background-color: $xlightGray;
-  font-family: $helveticaNeue;
+  font-family: $Americane;
   font-size: 18px;
 }
 
@@ -286,7 +286,7 @@ img {
 }
 
 .grid-display .entry p {
-  font: 18px/26px $helveticaNeue;
+  font: 18px/26px $Americane;
   color: $gray;
 
   a {
@@ -367,7 +367,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue; 
+  font-family: $Americane; 
   font-weight: 300;
   font-size: 28px;
 }
@@ -375,7 +375,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   font-size: 14px;
-  font-family: $helveticaNeue;
+  font-family: $Americane;
   
   @include mobile {
     margin: 3px 0;
@@ -412,7 +412,7 @@ ul.work-list {
         width: 100%;
       }
     @extend .inline;
-    font: 15px/21px $helveticaNeue;
+    font: 15px/21px $Americane;
     &:hover {
       background-color: $white;
     }
@@ -429,7 +429,7 @@ ul.work-list {
   @extend .clearfix;
 
   .boilerplate-block {
-    font: 15px/21px $helveticaNeue;
+    font: 15px/21px $Americane;
     color: $gray;
     // color: $white;
     // float: left;
@@ -458,11 +458,15 @@ ul.work-list {
   float: left;
 }
 
+/****************/
+/*  Navigation  */
+/****************/
 nav {
   float: right;
   margin-top: 23px;
-  font-family: $helveticaNeue; 
+  font-family: $Americane;
   font-size: 16px;
+  // font-weight: 700;
   
   @include mobile {
     float: none;
@@ -522,7 +526,7 @@ article {
 
   .eyebrow {
     font-size: 12px;
-    font-family: $helveticaNeue;
+    font-family: $Americane;
     line-height: 30px;
     color: $gray;
     padding-top: 6px;
@@ -574,7 +578,7 @@ article {
 footer {
   padding: 20px 0;
   text-align: center;
-  font: 12px $helveticaNeue;
+  font: 12px $Americane;
 }
 
 
