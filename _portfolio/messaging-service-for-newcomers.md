@@ -14,12 +14,12 @@ We’ve been developing a service to connect refugee newcomers to volunteers via
 
 ### How does it work?
 
-Newcomers can send questions about anything related to settlement or daily life—like who to contact about employment programs, or where to find specialty foods—and volunteers who are currently available will receive a notification, and the opportunity to respond to the question.
+Newcomers can send questions about anything related to settlement or daily life—like who to contact about employment programs, or where to find specialty foods—and volunteers who are currently available will receive a notification, and the opportunity to respond to the question with a text or a voice message.
 
 We will run the testing for a couple of days; you are free to participate as much or as little as you like.
 
 * It’s anonymous; neither party can see the other person’s phone number.
-* You only receive notifications when you have said you are available; volunteers can log in and out with a single text message.
+* You will only receive notifications when you say you are available; you can log in and out with a single text message.
 * You can stop your participation at any time.
 
 ### What do I need to do?
@@ -28,9 +28,9 @@ We will run the testing for a couple of days; you are free to participate as muc
 
 Once we receive your information, we will contact you with the number for the service and you can get going right away.
 
-You are under no pressure to respond to questions from newcomers. If you don’t know how to answer a question you can ask them for more information, or you don’t have to respond.
+You are under no pressure to respond to questions from newcomers. If you don’t know how to answer a question you can ask them for more information, or you don’t have to answer—the point of the service is that if you can’t, hopefully someone else can!
 
-When the testing is completed we will invite you to submit your reflections on the experience, and you are also welcome to share feedback with us at any time.
+When the testing is completed we will invite you to submit your reflections on the experience, and you are also welcome to share feedback with us at any time. 
 
 ### Will this actually be a real service for newcomers?
 
