@@ -30,11 +30,19 @@ Once we receive your information, we will contact you with the number for the se
 
 You are under no pressure to respond to questions from newcomers. If you don’t know how to answer a question you can ask them for more information, or you don’t have to respond.
 
-When the testing is completed we will invite you to submit your reflections on the experience, and you are also welcome to share feedback with us at any time. 
+When the testing is completed we will invite you to submit your reflections on the experience, and you are also welcome to share feedback with us at any time.
 
 ### Will this actually be a real service for newcomers?
 
-We hope so! We will be looking to learn from our testing and seek support to develop the project further. Get in touch if you are in interested 
+We hope so! We will be looking to learn from our testing and seek support to develop the project further. Get in touch if you are in interested in learning more.
+
+### Are there other examples of this kind of service?
+
+Yes, we will update this list but here are a few quick examples of projects supporting refugees using low-barrier technologies like SMS:
+
+* [Refugee Text Service (Denmark)](http://www.refugeetext.org/)
+* [SMS’UP (France)](http://smsup.weebly.com/)
+* [How Cellphones are Redefining the Syrian Refugee Crisis](https://www.devex.com/news/mobile-technology-for-mobile-populations-how-cellphones-are-redefining-the-syrian-refugee-crisis-87871)
 
 ### Who are you?
 
