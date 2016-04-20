@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Messaging Service for Refugee Newcomers
+title: Text and Voice Messaging Service for Newcomers
+desc: Empowering refugees and other newcomers to Canada through anonymous messaging
 permalink: /messaging-service-for-newcomers/
+heroic: /images/candidates/city_window_live.jpg
+tags: Service Design, Conversational UI, Mobile
+skills: Research, Project Management, Mobile Service Prototyping
+project-date: March 2016
 ---
 
-## Help us test a new service to support refugee newcomers in Canada
+## Text and Voice Messaging Service for Newcomers
 
 We’ve been developing a service to connect refugee newcomers to volunteers via SMS text and voice messages, and we urgently need your help to test our first prototype! 
 
@@ -49,5 +54,3 @@ Yes, we will update this list but here are a few quick examples of projects supp
 We are a two person research, design, and build team: Michael-Owen Liston and Manu Kabahizi. This project is being conducted with the support with Immigration, Refugees, and Citizenship Canada (IRCC), but we are not personally affiliated with the Federal Government of Canada.
 
 Please contact Michael with any questions or inquiries: [{{ site.current_email_address }}](mailto:%22Michael-Owen%20Liston%22%3c{{ site.current_email_address }}%3e)
-
-<iframe id="signupform" src="https://docs.google.com/forms/d/1CxFXUgjxdPQkkd8MCN2gcbzOrNbQ7T2z90UkRSoFj0A/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
