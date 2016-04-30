@@ -538,6 +538,11 @@ article {
     margin-top: 10px;
   }
 
+/************/
+/*  SUBNAV  */
+/************/
+
+
   .small-link {
     font-size: 11px;
     color: $medGray;
@@ -546,6 +551,30 @@ article {
         color: $red;
       }
   }
+
+  .subnav {
+    display: inline;
+    list-style: none;
+
+    li {
+      float: right;
+      display: inline;
+      margin-right: 40px;
+
+      @include mobile {
+        float: none;
+        margin-right: 0;
+        padding-bottom: 5px;
+        display: block;
+      }
+
+      a { 
+        @extend .small-link;
+        font-size: 18px; 
+      }
+    }
+  }
+
   .large-link {
     font-size: 20px;
     color: $red;
