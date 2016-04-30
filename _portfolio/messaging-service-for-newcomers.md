@@ -28,6 +28,7 @@ We’ve been prototyping a service to connect refugee newcomers to volunteers vi
 
 ### Why was this necessary?
 
+_General overview of the situation goes here._
 
 ### How does it work?
 
@@ -45,11 +46,18 @@ However, our research rapidly overturned one of our fundamental assumptions—th
 
 While text messages could still provide a valuable medium of access for many of the potential participants in our proposed service, it was clear we needed to find ways of meeting the needs of people, regardless of their literacy level.
 
+The platform we were using for rapid prototyping the service, [TextIt](http://textit.in), has robust support for creating Interactive Voice Response (IVR) services—the familiar telephone customer service “voice menu”—that can be deployed in parallel with a text message system. We were able to quickly prototype an asynchronous voice message service within the platform, that could be used as an alternative to sending and receiving text messages.
+
+Another opportunity that we identified in our research was the extent of the existing pool of knowledge about settlement issues that lived within the community of volunteers, settlement workers, private sponsors, and cultural groups at large. The resources are out there, but the challenge is one of awareness and access for newcomers who may have high needs and extremely limited resources. Rather than proposing a fully automated database of information as a starting intervention, we saw an opportunity in the human “database” that was already deployed at scale—how might we multiply the points of contact between community knowledge and newcomers?
+
+By the end of this research and design sprint, our prototype was focused on testing the potential of anonymized messaging between community participants and newcomers, with very little automation. We believe that this would allow a valuable service to be deployed much more rapidly, with greatly reduced upfront development cost. This service could be used to train machine learning and natural language processing models, however—through use, such a service could build the capacity for the system to be able to handle some informational requests automatically.
 
 
 ### Who we are
 
-We are [Michael-Owen Liston]( {{ site.baseurl }} /michael ) and [Manu Kabahizi](https://www.linkedin.com/in/manuka). Between us we have extensive experience in interaction design, software development, technology consultation, and projects in the community development space worldwide. 
+We are [Michael-Owen Liston]( {{ site.baseurl }} /michael ) and [Manu Kabahizi](https://www.linkedin.com/in/manuka). Between us we have extensive experience in interaction design, software development, technology consultation, and projects in the community development space worldwide.
+
+Please contact Michael with any questions or inquiries: [{{ site.current_email_address }}](mailto:%22Michael-Owen%20Liston%22%3c{{ site.current_email_address }}%3e)
 
 <h2 id="next">Next Steps</h2>
 
@@ -116,10 +124,3 @@ Links to other projects using low-barrier technologies like SMS in this space, n
 * [Telegram](https://telegram.org/)
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [Wit.ai](https://wit.ai/)
-
-
-### Who are you?
-
-We are a two person research, design, and build team: Michael-Owen Liston and Manu Kabahizi. This project was conducted with the support with Immigration, Refugees, and Citizenship Canada (IRCC), but we are not personally affiliated with the Federal Government of Canada.
-
-Please contact Michael with any questions or inquiries: [{{ site.current_email_address }}](mailto:%22Michael-Owen%20Liston%22%3c{{ site.current_email_address }}%3e)
