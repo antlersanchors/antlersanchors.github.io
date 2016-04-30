@@ -16,29 +16,37 @@ context: Research and Service Prototype for Immigration, Refugees, and Citizensh
 ---
 
 <ul class="subnav">
-  <li><a href="#Overview">Overview</a></li>
-  <li><a href="#About">The Story of the Project</a></li>
-  <li><a href="#Next">What’s Next?</a></li>
   <li><a href="#links">Link List</a></li>
+  <li><a href="#next">What’s Next?</a></li>
+  <li><a href="#about">The Story of the Project</a></li>
+  <li><a href="#overview">Overview</a></li>
 </ul>
 
-<h2> An independent pilot project for Immigration, Refugess, and Citizenship Canada</h2>
+<h2 id="overview">An independent pilot project for Immigration, Refugess, and Citizenship Canada</h2>
 
-We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages.
+We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. 
 
 ### How does it work?
 
 Newcomers can send questions about anything related to settlement or daily life—like who to contact about employment programs, or where to find specialty foods—and volunteers who are currently available will receive a notification, and the opportunity to respond to the question with a text or a voice message.
 
-## Frequently Asked Questions
+<h2 id="about">The Story of the Project</h2>
+
+### Where we began
+
+### Where we ended up
+
+### Who we are
+
+<h2 id="next">Next Steps</h2>
 
 ### Will this actually be a real service for newcomers?
 
 We hope so! We will be looking to learn from our testing and seek support to develop the project further. Get in touch if you are in interested in learning more.
 
-### Are there other examples of this kind of service?
+<h2 id="links">Link List</h2>
 
-Yes, we will update this list but here are a few quick examples of projects supporting refugees using low-barrier technologies like SMS:
+Links to other projects using low-barrier technologies like SMS in this space, news articles, and resources about chatbots, conversational interfaces, and natural language processing in general.  
 
 #### Project Pages
 
@@ -51,7 +59,6 @@ Yes, we will update this list but here are a few quick examples of projects supp
 * [Textizen](https://www.textizen.com/)
 * [Citygram](https://www.citygram.org/)
 * [Botivist](http://research.microsoft.com/apps/pubs/default.aspx?id=256068)
-
 
 #### News Articles
 
