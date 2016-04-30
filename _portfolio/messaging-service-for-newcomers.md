@@ -24,7 +24,10 @@ context: Research and Service Prototype for Immigration, Refugees, and Citizensh
 
 <h2 id="overview">An independent pilot project for Immigration, Refugess, and Citizenship Canada</h2>
 
-We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. This project was undertaken as a response to an RFP for innovative activities to support Syrian newcomer settlement in Canada. We were selected to explore the potential of an SMS messaging service in this context, as part of a rapid research and prototyping sprint.
+We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. This project was undertaken as a response to an RFP from IRCC for innovative activities to support Syrian newcomer settlement in Canada. We were selected to explore the potential of an SMS messaging service in this context, as part of a rapid two-month research and prototyping sprint.
+
+### Why was this necessary?
+
 
 ### How does it work?
 
@@ -34,11 +37,15 @@ Newcomers can send questions about anything related to settlement or daily life�
 
 ### Where we began
 
-Blah Blah blah
+At the outset of the project we were interested in the potential of an SMS-based messaging service as a potential intervention.  We imagined that text messages could provide an accessible, “low-barrier” way of interacting with an automated service that could respond to requests for information in Arabic, 24-7. We drew inspiration from similar projects around the world, including a number that we ourselves had been a part of previously.
+
+However, our research rapidly overturned one of our fundamental assumptions—that the Syrian newcomer population currently entering Canada is overwhelmingly tech-savvy and comfortable with text messaging. There is indeed a truth to this popular conception of “the Syrian refugee”, but it in fact highlights inequities that have existed in Syrian society for some time; the demographics of the people entering Canada under the Goverment Assisted Refugee program were vastly different from those crossing Europe over land, or arriving in Canada as Privately Sponsored Refugees. This population has typically below high school levels of education, no spoken or written English or French capacity, and—critically, for our assumptions about text messaging—are often illiterate in Arabic, as well. 
 
 ### Where we ended up
 
-Blah blah balahahah
+While text messages could still provide a valuable medium of access for many of the potential participants in our proposed service, it was clear we needed to find ways of meeting the needs of people, regardless of their literacy level.
+
+
 
 ### Who we are
 
