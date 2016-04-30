@@ -24,7 +24,7 @@ context: Research and Service Prototype for Immigration, Refugees, and Citizensh
 
 <h2 id="overview">An independent pilot project for Immigration, Refugess, and Citizenship Canada</h2>
 
-We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. 
+We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. This project was undertaken as a response to an RFP for innovative activities to support Syrian newcomer settlement in Canada. We were selected to explore the potential of an SMS messaging service in this context, as part of a rapid research and prototyping sprint.
 
 ### How does it work?
 
@@ -34,15 +34,28 @@ Newcomers can send questions about anything related to settlement or daily life�
 
 ### Where we began
 
+Blah Blah blah
+
 ### Where we ended up
+
+Blah blah balahahah
 
 ### Who we are
 
+We are [Michael-Owen Liston]( {{ site.baseurl }} /michael ) and [Manu Kabahizi](https://www.linkedin.com/in/manuka). Between us we have extensive experience in interaction design, software development, technology consultation, and projects in the community development space worldwide. 
+
 <h2 id="next">Next Steps</h2>
 
-### Will this actually be a real service for newcomers?
+### Is this a real, working service now?
 
-We hope so! We will be looking to learn from our testing and seek support to develop the project further. Get in touch if you are in interested in learning more.
+Our mandate for this project was not to bring a fully working service to market within a period of two months. Rather, our goal was to use our project proposal as a kind of provocation, and learn about the potential for such a service from the people who would use it. It was exciting for us to see government taking this kind of iterative, design-driven approach to such a complex problem space, rather than committing from the start to a preconceived, infrastructure-heavy “solution”, even before the dimensions of the problem is understood.
+
+### What are you doing next?
+
+Response from participants in our research and prototyping was very positive. At time of writing we are exploring opportunities to continue development and implementation of the service for the Syrian newcomer population, but we are also keen to explore potential interest in this model of service platform for other newcomer populations, as well as more diverse audiences.
+
+If you have a look at soe of the project pages in the links below, you’ll see there are lots of different ideas about how this kind of service can be helpful, and some great examples of like-minded projects “in the wild” already!
+
 
 <h2 id="links">Link List</h2>
 
