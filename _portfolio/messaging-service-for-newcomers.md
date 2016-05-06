@@ -24,11 +24,14 @@ context: Research and Service Prototype for Immigration, Refugees, and Citizensh
 
 <h2 id="overview">An independent pilot project for Immigration, Refugess, and Citizenship Canada</h2>
 
-We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. This project was undertaken as a response to an RFP from IRCC for innovative activities to support Syrian newcomer settlement in Canada. We were selected to explore the potential of an SMS messaging service in this context, as part of a rapid two-month research and prototyping sprint.
+We’ve been prototyping a service to connect refugee newcomers to volunteers via SMS text and voice messages. This project was undertaken as a response to an RFP from IRCC for innovative activities to support Syrian newcomer settlement in Canada. We were selected to explore the potential of an SMS messaging service in this context, as part of a rapid month-long research and prototyping sprint.
 
 ### Why was this necessary?
 
-_General overview of the situation goes here._
+By March 2016, over 25,000 Syrians had arrived in Canada as refugees, over a period of several months. Of these people, over 17,000 were Government Assisted Refugees, meaning that they had been identified by the UNHRC as being extremely vulnerable, and in greatest need of humanitarian assistance. The recognition that this population of newcomers to Canada would have particular challenges accessing resources to facilitate settlement—and might well have particular needs unmet by current services—led IRCC to put out a call for proposals to explore the space, try to better understand the challenges, and prototype new ways of addressing them.
+
+We proposed using a text messaging service as a platform, based on the success of similar programs worldwide, and our shared experience developing interventions for underserved populations using mobile technologies.
+
 
 ### How does it work?
 
@@ -50,7 +53,7 @@ The platform we were using for rapid prototyping the service, [TextIt](http://te
 
 Another opportunity that we identified in our research was the extent of the existing pool of knowledge about settlement issues that lived within the community of volunteers, settlement workers, private sponsors, and cultural groups at large. The resources are out there, but the challenge is one of awareness and access for newcomers who may have high needs and extremely limited resources. Rather than proposing a fully automated database of information as a starting intervention, we saw an opportunity in the human “database” that was already deployed at scale—how might we multiply the points of contact between community knowledge and newcomers?
 
-By the end of this research and design sprint, our prototype was focused on testing the potential of anonymized messaging between community participants and newcomers, with very little automation. We believe that this would allow a valuable service to be deployed much more rapidly, with greatly reduced upfront development cost. This service could be used to train machine learning and natural language processing models, however—through use, such a service could build the capacity for the system to be able to handle some informational requests automatically.
+By the end of this research and design sprint, our prototype was focused on testing the potential of anonymized messaging between community participants and newcomers, with relatively little automation. We believe that this would allow a valuable service to be deployed much more rapidly, with greatly reduced upfront development cost. This service could be used to train machine learning and natural language processing models, however—through use, such a service could build the capacity for the system to be able to handle some informational requests automatically.
 
 
 ### Who we are
@@ -69,7 +72,7 @@ Our mandate for this project was not to bring a fully working service to market 
 
 Response from participants in our research and prototyping was very positive. At time of writing we are exploring opportunities to continue development and implementation of the service for the Syrian newcomer population, but we are also keen to explore potential interest in this model of service platform for other newcomer populations, as well as more diverse audiences.
 
-If you have a look at soe of the project pages in the links below, you’ll see there are lots of different ideas about how this kind of service can be helpful, and some great examples of like-minded projects “in the wild” already!
+If you have a look at some of the project pages in the links below, you’ll see there are lots of similar-but-different ideas about how this kind of service could be used to help people—from finding settlement services to accessing mental health resources—and some great examples of like-minded projects “in the wild” already!
 
 
 <h2 id="links">Link List</h2>

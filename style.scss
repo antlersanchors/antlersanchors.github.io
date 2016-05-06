@@ -570,7 +570,9 @@ article {
 
       a { 
         @extend .small-link;
-        font-size: 18px; 
+        font-size: 18px;
+        font-family: Americane;
+        color: $darkGray;
       }
     }
   }
