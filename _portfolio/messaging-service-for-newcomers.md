@@ -101,7 +101,8 @@ Links to other projects using low-barrier technologies like SMS in this space, n
 * [Mobile for Development — Partnerships between MNOs and Innovators: Ideas from MWC](http://www.gsma.com/mobilefordevelopment/programme/m4dutilities/building-partnerships-between-mnos-and-innovators-ideas-mobile-world-congress)
 
 #### Chatbots and Conversational UI in General
-* [R U There? A new counselling service harnesses the power of the text message.](http://www.newyorker.com/magazine/2015/02/09/r-u)
+* [Raw Data Podcast, Episode 11: So... What's On Your Mind? (includes segment on Crisis Text Line)](https://soundcloud.com/rawdatapodcast/episode-11-so-whats-on-your-mind)
+* [R U There? A new counselling service harnesses the power of the text message. (Crisis Text Line)](http://www.newyorker.com/magazine/2015/02/09/r-u)
 * [The search for the killer bot](http://www.theverge.com/2016/1/6/10718282/internet-bots-messaging-slack-facebook-m)
 * [Conversational User Interfaces](https://medium.com/life-learning/the-future-of-cui-isn-t-conversational-fa3d9458c2b5#.9lxj1oxrw)
 * [All Talk and No Buttons: The Conversational UI](http://alistapart.com/article/all-talk-and-no-buttons-the-conversational-ui)
