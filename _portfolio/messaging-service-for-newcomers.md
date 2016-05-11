@@ -95,6 +95,7 @@ Links to other projects using low-barrier technologies like SMS in this space, n
 #### News Articles
 
 * [How cellphones are redefining the Syrian refugee crisis](https://www.devex.com/news/mobile-technology-for-mobile-populations-how-cellphones-are-redefining-the-syrian-refugee-crisis-87871)
+* [New initiatives emerge to help refugees](http://techcrunch.com/2016/04/30/new-initiatives-emerge-to-help-refugees/)
 * [Smartphone use on the refugee trail](http://arstechnica.com/video/2016/04/smartphone-use-on-the-refugee-trail/)
 * [How to make apps that help Europe-bound Syrian refugees](https://www.newscientist.com/article/mg23030692-900-are-humanitarian-apps-aimed-at-refugees-meeting-their-needs/)
 * [Text a Syrian: a New Service Will Help Refugees Navigate Life in Canada](http://motherboard.vice.com/en_ca/read/text-a-syrian-a-new-service-helps-refugees-navigate-life-in-canada-Mobile-Souktel)
