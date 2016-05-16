@@ -24,7 +24,7 @@ My work ranged from incremental improvements and bugfixes that could often be tu
 * Design and implemention of an end-to-end eCommerce flow, integrated into the library’s online catalogue, to allow patrons to purchase books and materials directly from their library
 * Design of an online store and tools for librarians to manage their book acquisition process.
 
-![eCommerce in the library]( {{ site.baseurl}} /images/bibliocommons/purchase_drawer.jpeg)
+![eCommerce in the library]( {{ site.baseurl}} /images/bibliocommons/purchase_drawer.jpeg){: .framed-image }
 
 ### Prototypes Great and Small
 I was able to utilize and explore a range of prototyping techniques at BiblioCommons. Most projects began as whiteboard or pen sketches, often involving other team members. I then prototyped design directions using animated paper prototypes, wireframes, Axure mockups, and HTML/CSS/jQuery prototypes. Because I literally worked side-by-side with my development team, and I was responsible for the final visual designs, I found prototyping in code was often a valuable way to engage the developers from an early stage in properly scoping constraints and contributed to a better technical understanding of the problem space.
