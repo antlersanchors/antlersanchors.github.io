@@ -40,6 +40,10 @@ At the end of the tour, a tourist can thank a guide for the service provided wit
 
 City Window was created as part of the Emotive Digital Service course. Our brief was to create a service for live events. We initially explored concepts in the healthcare space – to reduce isolation caused by hospitalization, illness, etc. Our early ideation on concepts of telepresence led us to think about other novel contexts for creating impromptu connections, and we decided to focus on the serendipitous intersection of people, places, and interests. We conducted a series of live prototypes of the City Window concept with tourists in the streets of Copenhagen – using Google Hangouts to simulate the core experience of lending your eyes to a remote guide, and we received very encouraging early feedback.
 
+![City Window early concept protoype 1]( {{ site.baseurl}} /images/candidates/city_window_prototype_1.gif){: .left-col }
+
+![City Window early concept protoype 2]( {{ site.baseurl}} /images/candidates/city_window_prototype_2.gif){: .left-col, .clearfix }
+
 ### What I Learned
 I learned a lot about how video prototypes could be used as internal communication tools, as well as part of experience prototyping with people on the street. I am proud of how hard we worked to build our own tools on the fly to allow us to test our concepts with people on the street.
 
