@@ -23,14 +23,14 @@ As part of a small team at Normative, I conducted a range of research, synthesis
 ### Process
 In order to build a tool that would meet the needs of such a diverse group of stakeholders, we took a systems approach to the design. We used individual interviews, group workshops, surveys, and pop-up intercepts to engage and learn from our stakeholders. We decided to synthesize user archetypes based on a matrix of physical mobility and engagement with technology — this allowed us to design for a much more focused pattern of needs and constraints, vs. trying to design to people’s titles, roles or the org chart.
 
-![SickKids archetype sketching]( {{ site.baseurl }} /images/hospital_service_design/hospital_service_sketching.jpg){: .framed-image }
+![SickKids archetype sketching]( {{ site.baseurl }} /images/hospital_service_design/hospital_service_sketching.jpg)
 
 Regular participatory workshops with key stakeholders ensured that we were co-developing a language and framework for the project that our client had ownership of, and contributed to a foundation of trust from the early stages of the project, which was critical in such a politically complex environment.
 
 ### Outcomes
 The major output of this three month phase was a high level strategy deck, which framed the vision, strategic recommendations, and major tactical milestones for the design/build phase of the project, which immediately followed our research and strategy work.
 
-![SickKids service archetypes]( {{ site.baseurl }} /images/hospital_service_design/hospital_archetype.jpg){: .framed-image }
+![SickKids service archetypes]( {{ site.baseurl }} /images/hospital_service_design/hospital_archetype.jpg)
 
 ### What I Learned
 * When it comes to research at scale, using multiple approaches is critical to get an array of perspectives.
